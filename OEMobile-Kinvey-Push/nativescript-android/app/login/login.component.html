@@ -1,0 +1,20 @@
+<GridLayout>
+
+    <StackLayout>
+        <Label class="main-label" text="Hello World!"></Label>
+
+        <GridLayout rows="auto, auto" translateY="50">
+            <TextField hint="Username" [(ngModel)]="user.username" autocorrect="false" autocapitalizationType="none" row="0"></TextField>
+            <TextField hint="Password" secure="true" (returnPress)="submit()" [(ngModel)]="user.password" row="1"></TextField>
+        </GridLayout>
+
+        <GridLayout rows="auto, auto" translateY="50">
+            <Button [text]="'Login'" class="submit-button" (tap)="submit()" row="0"></Button>
+        </GridLayout>
+
+        <GridLayout class="m-20" rows="auto, auto" translateY="50">
+            <Label text="This application demonstrates the ability to send push notifications to a device, be it a Android or IOS. Built on {N} in angular and typescript." textWrap="true" class="input t-20"></Label>
+        </GridLayout>
+    </StackLayout>
+
+</GridLayout>

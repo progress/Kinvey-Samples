@@ -1,0 +1,14 @@
+<ActionBar class="action-bar">
+    <Label class="action-bar-title" text="Home"></Label>
+</ActionBar>
+
+<GridLayout>
+    <StackLayout>
+        <GridLayout class="m-x-auto" rows="auto, auto" translateY="50">
+            <Label class="t-20" text="Hello {{ username }}!"></Label>
+        </GridLayout>
+        <GridLayout class="m-20" rows="auto, auto" translateY="50">
+            <Button [text]="'Logout'" class="submit-button" (tap)="submit()"></Button>
+        </GridLayout>
+    </StackLayout>
+</GridLayout>
