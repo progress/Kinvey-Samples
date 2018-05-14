@@ -1,0 +1,105 @@
+{
+    "children": [
+        {
+            "altRowTemplateFunction": "",
+            "altRowTemplateId": "",
+            "columns": [
+                {
+                    "encoded": true,
+                    "field": "CUSTOMER_ID",
+                    "filterable": true,
+                    "format": "",
+                    "sortable": true,
+                    "title": "CUSTOMER_ID"
+                },
+                {
+                    "encoded": true,
+                    "field": "COMPANY_NAME",
+                    "filterable": true,
+                    "format": "",
+                    "sortable": true,
+                    "title": "COMPANY_NAME"
+                },
+                {
+                    "encoded": true,
+                    "field": "PRIMARY_CONTACT",
+                    "filterable": true,
+                    "format": "",
+                    "sortable": true,
+                    "title": "PRIMARY_CONTACT"
+                },
+                {
+                    "encoded": true,
+                    "field": "ACCOUNT_MANAGER",
+                    "filterable": true,
+                    "format": "",
+                    "sortable": true,
+                    "title": "ACCOUNT_MANAGER"
+                }
+            ],
+            "customSections": {
+                "bottom": "bottomSection.html",
+                "middle": "middleSection.html",
+                "top": "topSection.html"
+            },
+            "dataProvider": "DataProvider2",
+            "dataSource": "Customer",
+            "editOptions": {
+                "allowDelete": true,
+                "allowEdit": true,
+                "allowInsert": true,
+                "batch": true,
+                "rowButtonLabels": {
+                    "canceledit": "Cancel",
+                    "destroy": "Delete",
+                    "edit": "Edit",
+                    "update": "Update"
+                },
+                "toolbarButtonLabels": {
+                    "cancel": "Cancel changes",
+                    "create": "New",
+                    "save": "Save changes"
+                }
+            },
+            "editable": "ReadOnly",
+            "events": {
+                "hideEventHandler": "onHide",
+                "initEventHandler": "onInit",
+                "onRowCreate": "",
+                "onRowDelete": "",
+                "onRowSelect": "onRowSelect",
+                "onRowUpdate": "",
+                "showEventHandler": "onShow"
+            },
+            "extension": "view-factory.js",
+            "extensionFolderName": "test\\test",
+            "filterable": false,
+            "groupable": false,
+            "hidden": false,
+            "name": "test",
+            "pageSize": 20,
+            "reorderable": false,
+            "resizable": false,
+            "rowTemplateFunction": "",
+            "rowTemplateId": "",
+            "schemaVersion": "1.0",
+            "sortable": false,
+            "title": "<Title>",
+            "type": "view",
+            "uniqueID": "0e1cd390-2dcb-4085-8cd5-d2bef4ad9cb3",
+            "viewType": "data-grid"
+        }
+    ],
+    "description": "",
+    "moduleType": "default",
+    "name": "test",
+    "order": 2,
+    "schemaVersion": "1.0",
+    "thumbnail": {
+        "background": "#00a2e8",
+        "color": "#ffffff",
+        "icon": "fa-area-chart"
+    },
+    "type": "module",
+    "uniqueID": "ae856029-53a8-466d-812b-4ea4b9e2ab26"
+}

@@ -1,0 +1,11 @@
+ADD SEQUENCE "Next-User-Num"
+  INITIAL 1
+  INCREMENT 1
+  CYCLE-ON-LIMIT no
+  MIN-VAL 1
+
+.
+PSC
+cpstream=ISO8859-1
+.
+0000000550

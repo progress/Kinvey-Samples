@@ -1,0 +1,35 @@
+[2018/04/26@12:15:39.890+0530] 
+[2018/04/26@12:15:39.892+0530]=== Start logging. Local time: 2018/04/26@12:15:39.888+0530. ===
+[2018/04/26@12:15:39.894+0530]=== Progress Version 11.7.03.000 1585 ===
+[2018/04/26@12:15:39.894+0530] 
+[2018/04/26@12:15:39.895+0530] [3] [SQLExplorer]           Default properties will be used. (SQLMsg037)
+[2018/04/26@12:15:39.896+0530] [3] [SQLExplorer]           Setting Connect to jdbc:datadirect:openedge://localhost:7821;databaseName=sportsdb
+[2018/04/26@12:15:39.908+0530] [3] [SQLExplorer]           === SQLExplorer starting. ===
+[2018/04/26@12:15:39.908+0530] [3] [SQLExplorer]           ### ARGS:    -db sportsdb -S 7821 
+[2018/04/26@12:15:39.915+0530] [3] [SQLExplorer]           Connecting user "htirunag" to URL "jdbc:datadirect:openedge://localhost:7821;databaseName=sportsdb"... (8920)
+[2018/04/26@12:15:39.916+0530] [3] [SQLExplorer]           Loading JDBC driver com.ddtek.jdbc.openedge.OpenEdgeDriver.
+[2018/04/26@12:15:40.154+0530] [0] [*UnexpectedError*]   * recorded as exception #1 in file C:\Kinvey\Developer Studio 4.5.2\workspace\Sports2000\PASOEContent\WEB-INF\openedge\db\SQLExplorer.exceptions.
+[2018/04/26@12:15:40.156+0530] [3] [SQLExplorer]           === SQLExplorer ending. ===
+[2018/04/26@12:17:18.683+0530] 
+[2018/04/26@12:17:18.685+0530]=== Start logging. Local time: 2018/04/26@12:17:18.682+0530. ===
+[2018/04/26@12:17:18.687+0530]=== Progress Version 11.7.03.000 1585 ===
+[2018/04/26@12:17:18.687+0530] 
+[2018/04/26@12:17:18.687+0530] [3] [SQLExplorer]           Local C:\Kinvey\Developer Studio 4.5.2\workspace\Sports2000\PASOEContent\WEB-INF\openedge\db\SQLExplorer.properties file will be used. (SQLMsg036)
+[2018/04/26@12:17:18.689+0530] [3] [SQLExplorer]           Setting Connect to jdbc:datadirect:openedge://localhost:7821;databaseName=sportsdb
+[2018/04/26@12:17:18.693+0530] [3] [SQLExplorer]           === SQLExplorer starting. ===
+[2018/04/26@12:17:18.693+0530] [3] [SQLExplorer]           ### ARGS:    -db sportsdb -S 7821 
+[2018/04/26@12:17:18.699+0530] [3] [SQLExplorer]           Connecting user "htirunag" to URL "jdbc:datadirect:openedge://localhost:7821;databaseName=sportsdb"... (8920)
+[2018/04/26@12:17:18.700+0530] [3] [SQLExplorer]           Loading JDBC driver com.ddtek.jdbc.openedge.OpenEdgeDriver.
+[2018/04/26@12:17:30.907+0530] [0] [*UnexpectedError*]   * recorded as exception #2 in file C:\Kinvey\Developer Studio 4.5.2\workspace\Sports2000\PASOEContent\WEB-INF\openedge\db\SQLExplorer.exceptions.
+[2018/04/26@12:17:30.909+0530] [3] [SQLExplorer]           === SQLExplorer ending. ===
+[2018/04/26@12:17:37.462+0530] 
+[2018/04/26@12:17:37.463+0530]=== Start logging. Local time: 2018/04/26@12:17:37.460+0530. ===
+[2018/04/26@12:17:37.465+0530]=== Progress Version 11.7.03.000 1585 ===
+[2018/04/26@12:17:37.466+0530] 
+[2018/04/26@12:17:37.466+0530] [3] [SQLExplorer]           Local C:\Kinvey\Developer Studio 4.5.2\workspace\Sports2000\PASOEContent\WEB-INF\openedge\db\SQLExplorer.properties file will be used. (SQLMsg036)
+[2018/04/26@12:17:37.468+0530] [3] [SQLExplorer]           Setting Connect to jdbc:datadirect:openedge://localhost:7821;databaseName=sportsdb
+[2018/04/26@12:17:37.471+0530] [3] [SQLExplorer]           === SQLExplorer starting. ===
+[2018/04/26@12:17:37.471+0530] [3] [SQLExplorer]           ### ARGS:    -db sportsdb -S 7821 
+[2018/04/26@12:17:37.478+0530] [3] [SQLExplorer]           Connecting user "htirunag" to URL "jdbc:datadirect:openedge://localhost:7821;databaseName=sportsdb"... (8920)
+[2018/04/26@12:17:37.480+0530] [3] [SQLExplorer]           Loading JDBC driver com.ddtek.jdbc.openedge.OpenEdgeDriver.
+[2018/04/26@12:18:03.609+0530] [3] [SQLExplorer]           === SQLExplorer ending. ===

@@ -1,0 +1,50 @@
+
+
+====== Start exception logging == "C:\Kinvey\Developer Studio 4.5.2\workspace\Sports2000\PASOEContent\WEB-INF\openedge\db\SQLExplorer.exceptions" opened == Thu Apr 26 12:15:40 IST 2018 ======
+
+
+**** 1 ****
+
+   Exception at Thu Apr 26 12:15:40 IST 2018: java.sql.SQLException
+   Message (throw): ### Connect stack trace. ###
+   Message (excp):  [DataDirect][OpenEdge JDBC Driver][OpenEdge] Access denied(Authorisation failed)
+   Stack Trace:
+java.sql.SQLException: [DataDirect][OpenEdge JDBC Driver][OpenEdge] Access denied(Authorisation failed)
+	at com.ddtek.jdbc.openedge.client.ddd.aw(Unknown Source)
+	at com.ddtek.jdbc.openedge.client.ddd.j(Unknown Source)
+	at com.ddtek.jdbc.openedge.OpenEdgeImplConnection.j(Unknown Source)
+	at com.ddtek.jdbc.openedgebase.BaseConnection.b(Unknown Source)
+	at com.ddtek.jdbc.openedgebase.BaseConnection.k(Unknown Source)
+	at com.ddtek.jdbc.openedgebase.BaseConnection.b(Unknown Source)
+	at com.ddtek.jdbc.openedgebase.BaseConnection.a(Unknown Source)
+	at com.ddtek.jdbc.openedgebase.BaseDriver.connect(Unknown Source)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at com.progress.sql.explorer.SQLConnectServer.call(SQLConnectServer.java:41)
+	at com.progress.common.rmiregistry.TryIt.run(TryIt.java:221)
+
+
+====== Start exception logging == "C:\Kinvey\Developer Studio 4.5.2\workspace\Sports2000\PASOEContent\WEB-INF\openedge\db\SQLExplorer.exceptions" opened == Thu Apr 26 12:17:30 IST 2018 ======
+
+
+**** 2 ****
+
+   Exception at Thu Apr 26 12:17:30 IST 2018: java.sql.SQLNonTransientConnectionException
+   Message (throw): ### Connect stack trace. ###
+   Message (excp):  [DataDirect][OpenEdge JDBC Driver]Error establishing socket to host and port: localhost:7821. Reason: Connection refused: connect
+   Stack Trace:
+java.sql.SQLNonTransientConnectionException: [DataDirect][OpenEdge JDBC Driver]Error establishing socket to host and port: localhost:7821. Reason: Connection refused: connect
+	at com.ddtek.jdbc.openedgebase.ddb9.b(Unknown Source)
+	at com.ddtek.jdbc.openedgebase.ddb9.a(Unknown Source)
+	at com.ddtek.jdbc.openedgebase.ddb8.b(Unknown Source)
+	at com.ddtek.jdbc.openedgebase.ddb8.a(Unknown Source)
+	at com.ddtek.jdbc.openedge.OpenEdgeImplConnection.j(Unknown Source)
+	at com.ddtek.jdbc.openedgebase.BaseConnection.b(Unknown Source)
+	at com.ddtek.jdbc.openedgebase.BaseConnection.k(Unknown Source)
+	at com.ddtek.jdbc.openedgebase.BaseConnection.b(Unknown Source)
+	at com.ddtek.jdbc.openedgebase.BaseConnection.a(Unknown Source)
+	at com.ddtek.jdbc.openedgebase.BaseDriver.connect(Unknown Source)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at com.progress.sql.explorer.SQLConnectServer.call(SQLConnectServer.java:41)
+	at com.progress.common.rmiregistry.TryIt.run(TryIt.java:221)

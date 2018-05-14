@@ -1,0 +1,12 @@
+{
+    "children": [],
+    "description": "",
+    "layout": {},
+    "logo": "logo_default.png",
+    "name": "KinveyOAuth",
+    "schemaVersion": "1.4.2",
+    "targetFramework": "AngularJS",
+    "theme": "metro",
+    "type": "app",
+    "uniqueID": "912794f1-2d67-4cfb-bec8-52c6ba98eb9e"
+}

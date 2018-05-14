@@ -1,0 +1,46 @@
+Loading the user account
+
+                                Load Table Contents
+ Loading Data.   Press CTRL-BREAK to terminate Recordsd process.Total Expected
+ Table             Load file                   Loaded           Errors Records
+ --------------------------------------------- ------------ -----------------------
+
+
+ _sec-authenticatio.\db\_sec-authentication-do       12           0         12
+Load of database contents completed.
+
+                                Load Table Contents
+ Loading Data.   Press CTRL-BREAK to terminate Recordsd process.Total Expected
+ Table             Load file                   Loaded           Errors Records
+ --------------------------------------------- ------------ -----------------------
+
+
+ _User             .\db\_user.d                       8           0          8
+Load of database contents completed.
+
+                                Load Table Contents
+ Loading Data.   Press CTRL-BREAK to terminate Recordsd process.Total Expected
+ Table             Load file                   Loaded           Errors Records
+ --------------------------------------------- ------------ -----------------------
+
+
+ _sec-role         .\db\_sec-role.d                   4           0          4
+Load of database contents completed.
+
+                                Load Table Contents
+ Loading Data.   Press CTRL-BREAK to terminate Recordsd process.Total Expected
+ Table             Load file                   Loaded           Errors Records
+ --------------------------------------------- ------------ -----------------------
+
+
+ _sec-granted-role .\db\_sec-granted-role.d           6           0          6
+Load of database contents completed.
+Encrypting password for  bettyab@acme.com
+Encrypting password for  BPSServer@OESPA
+Encrypting password for  dba1@admins
+User Number was null for dbadmin
+Encrypting password for  RESTClient@OESPA
+Encrypting password for  restdebug
+Encrypting password for  restdebug@restdomain
+Encrypting password for  restuser
+Encrypting password for  restuser@restdomain

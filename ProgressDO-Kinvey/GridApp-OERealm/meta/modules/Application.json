@@ -1,0 +1,89 @@
+{
+    "authorization": {
+        "allowedRoles": []
+    },
+    "children": [
+        {
+            "authorization": {
+                "allowedRoles": []
+            },
+            "customSections": {
+                "bottom": "bottomSection.html",
+                "middle": "middleSection.html",
+                "top": "topSection.html"
+            },
+            "events": {
+                "hideEventHandler": "onHide",
+                "initEventHandler": "onInit",
+                "login": "onLogin",
+                "showEventHandler": "onShow"
+            },
+            "logo": "logo_default_login.png",
+            "name": "login",
+            "passwordLabel": "Password",
+            "readonly": false,
+            "schemaVersion": "1.0",
+            "title": "<Title>",
+            "type": "view",
+            "uniqueID": "75f3ef7b-c8cd-4271-ab65-5892821edd28",
+            "usernameLabel": "Username",
+            "viewType": "login"
+        },
+        {
+            "authorization": {
+                "allowedRoles": []
+            },
+            "customSections": {
+                "bottom": "bottomSection.html",
+                "top": "topSection.html"
+            },
+            "events": {
+                "hideEventHandler": "onHide",
+                "initEventHandler": "onInit",
+                "showEventHandler": "onShow"
+            },
+            "name": "landing-page",
+            "readonly": false,
+            "schemaVersion": "1.0",
+            "type": "view",
+            "uniqueID": "417e8b2b-dc38-47bc-afff-f62015870b91",
+            "viewType": "landing-page"
+        },
+        {
+            "authorization": {
+                "allowedRoles": []
+            },
+            "customSections": {
+                "bottom": "bottomSection.html",
+                "top": "topSection.html"
+            },
+            "events": {
+                "hideEventHandler": "onHide",
+                "initEventHandler": "onInit",
+                "showEventHandler": "onShow"
+            },
+            "extensionFolderName": "Application\\unauthorized-page",
+            "html": "<p><strong>We could not access the information you requested.</strong> <br> Use the navigation or go to the <a ui-sref=\"default.module.application.home\">Homepage</a>.</p>",
+            "name": "unauthorized-page",
+            "readonly": false,
+            "schemaVersion": "1.0",
+            "statusCode": false,
+            "title": "FORBIDDEN",
+            "type": "view",
+            "uniqueID": "98f539a8-faf2-401f-9ab7-8d5430334ab3",
+            "viewType": "unauthorized-page"
+        }
+    ],
+    "description": "This Module contains application level pages including the landing page and authentication page",
+    "moduleType": "system",
+    "name": "Application",
+    "order": 0,
+    "schemaVersion": "1.0",
+    "thumbnail": {
+        "background": "#b2b2b2",
+        "color": "#ffffff",
+        "icon": "fa-group"
+    },
+    "type": "module",
+    "uniqueID": "dc98d635-19ec-4c55-ae5c-47b111815ec0"
+}

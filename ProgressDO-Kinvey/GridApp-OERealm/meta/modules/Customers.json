@@ -1,0 +1,243 @@
+{
+    "authorization": {
+        "allowedRoles": []
+    },
+    "children": [
+        {
+            "altRowTemplateFunction": "",
+            "altRowTemplateId": "",
+            "authorization": {
+                "allowedRoles": []
+            },
+            "classList": "",
+            "columns": [
+                {
+                    "componentOptions": {
+                        "annotations": {
+                            "id": "componentIdentifier"
+                        },
+                        "downArrowText": "",
+                        "events": {
+                            "onChange": ""
+                        },
+                        "format": "",
+                        "id": "ctl54",
+                        "model": "",
+                        "name": "CustNum",
+                        "placeholder": "",
+                        "schemaVersion": "1.0",
+                        "spinners": false,
+                        "step": 1,
+                        "title": "Cust Num",
+                        "type": "integer-text-box",
+                        "uniqueID": "9e28da18-3089-4276-9ede-76662f1204ba",
+                        "upArrowText": "",
+                        "validation": {
+                            "required": false
+                        }
+                    },
+                    "encoded": true,
+                    "field": "CustNum",
+                    "filterable": true,
+                    "format": "",
+                    "sortable": true,
+                    "title": "Cust Num"
+                },
+                {
+                    "componentOptions": {
+                        "annotations": {
+                            "id": "componentIdentifier"
+                        },
+                        "debounce": 0,
+                        "defaultValue": "",
+                        "events": {
+                            "onChange": ""
+                        },
+                        "format": "",
+                        "id": "ctl56",
+                        "model": "",
+                        "name": "Name",
+                        "placeholder": "",
+                        "schemaVersion": "1.0",
+                        "title": "Name",
+                        "type": "text-box",
+                        "uniqueID": "30dec92c-9eeb-4abc-941c-dab682efd3c3",
+                        "validation": {
+                            "required": false
+                        }
+                    },
+                    "encoded": true,
+                    "field": "Name",
+                    "filterable": true,
+                    "format": "",
+                    "sortable": true,
+                    "title": "Name"
+                },
+                {
+                    "componentOptions": {
+                        "annotations": {
+                            "id": "componentIdentifier"
+                        },
+                        "debounce": 0,
+                        "defaultValue": "",
+                        "events": {
+                            "onChange": ""
+                        },
+                        "format": "",
+                        "id": "ctl55",
+                        "model": "",
+                        "name": "Country",
+                        "placeholder": "",
+                        "schemaVersion": "1.0",
+                        "title": "Country",
+                        "type": "text-box",
+                        "uniqueID": "2fc62d94-d1e1-4e79-a275-4c67e5a1776e",
+                        "validation": {
+                            "required": false
+                        }
+                    },
+                    "encoded": true,
+                    "field": "Country",
+                    "filterable": true,
+                    "format": "",
+                    "sortable": true,
+                    "title": "Country"
+                },
+                {
+                    "componentOptions": {
+                        "annotations": {
+                            "id": "componentIdentifier"
+                        },
+                        "downArrowText": "",
+                        "events": {
+                            "onChange": ""
+                        },
+                        "format": "",
+                        "id": "ctl66",
+                        "model": "",
+                        "name": "Balance",
+                        "placeholder": "",
+                        "schemaVersion": "1.0",
+                        "spinners": false,
+                        "step": 1,
+                        "title": "Balance",
+                        "type": "numeric-text-box",
+                        "uniqueID": "4d4508a1-2b73-457e-9a38-64842461eedb",
+                        "upArrowText": "",
+                        "validation": {
+                            "required": false
+                        }
+                    },
+                    "encoded": true,
+                    "field": "Balance",
+                    "filterable": true,
+                    "format": "",
+                    "sortable": true,
+                    "title": "Balance"
+                },
+                {
+                    "componentOptions": {
+                        "annotations": {
+                            "id": "componentIdentifier"
+                        },
+                        "downArrowText": "",
+                        "events": {
+                            "onChange": ""
+                        },
+                        "format": "",
+                        "id": "ctl65",
+                        "model": "",
+                        "name": "CreditLimit",
+                        "placeholder": "",
+                        "schemaVersion": "1.0",
+                        "spinners": false,
+                        "step": 1,
+                        "title": "Credit Limit",
+                        "type": "numeric-text-box",
+                        "uniqueID": "e1274698-2f1a-4f26-87f2-d8b66d5201c7",
+                        "upArrowText": "",
+                        "validation": {
+                            "required": false
+                        }
+                    },
+                    "encoded": true,
+                    "field": "CreditLimit",
+                    "filterable": true,
+                    "format": "",
+                    "sortable": true,
+                    "title": "Credit Limit"
+                }
+            ],
+            "customSections": {
+                "bottom": "bottomSection.html",
+                "middle": "middleSection.html",
+                "top": "topSection.html"
+            },
+            "dataProvider": "CustomerProvider",
+            "dataSource": "Customer",
+            "editOptions": {
+                "allowDelete": true,
+                "allowEdit": true,
+                "allowInsert": true,
+                "batch": true,
+                "rowButtonIcons": {
+                    "destroy": "k-icon k-i-delete",
+                    "edit": "fa fa-pencil"
+                },
+                "rowButtonLabels": {
+                    "canceledit": "Cancel Edit",
+                    "destroy": "",
+                    "edit": "",
+                    "update": "Update"
+                },
+                "toolbarButtonIcons": {
+                    "cancel": "k-icon k-i-track-changes-reject",
+                    "create": "k-icon k-i-track-changes",
+                    "save": "k-icon k-i-save"
+                },
+                "toolbarButtonLabels": {
+                    "cancel": "Cancel changes",
+                    "create": "New",
+                    "save": "Save changes"
+                }
+            },
+            "editable": "Popup",
+            "events": {
+                "hideEventHandler": "onHide",
+                "initEventHandler": "onInit",
+                "onRowCreate": "",
+                "onRowDelete": "",
+                "onRowSelect": "onRowSelect",
+                "onRowUpdate": "",
+                "showEventHandler": "onShow"
+            },
+            "filterable": true,
+            "groupable": true,
+            "hidden": false,
+            "name": "CustomersView",
+            "pageSize": 10,
+            "reorderable": true,
+            "resizable": true,
+            "rowTemplateFunction": "",
+            "rowTemplateId": "",
+            "schemaVersion": "1.0",
+            "sortable": true,
+            "title": "Customers",
+            "type": "view",
+            "uniqueID": "edfd9b4b-72f0-4374-adad-4482a15d9ac1",
+            "viewType": "data-grid"
+        }
+    ],
+    "description": "",
+    "moduleType": "default",
+    "name": "Customers",
+    "order": 1,
+    "schemaVersion": "1.0",
+    "thumbnail": {
+        "background": "#00a2e8",
+        "color": "#ffffff",
+        "icon": "fa-area-chart"
+    },
+    "type": "module",
+    "uniqueID": "05e1aa42-31ab-491a-82f2-05bdff05248b"
+}

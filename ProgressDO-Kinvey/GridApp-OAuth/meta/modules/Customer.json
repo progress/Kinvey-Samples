@@ -1,0 +1,112 @@
+{
+    "children": [
+        {
+            "altRowTemplateFunction": "",
+            "altRowTemplateId": "",
+            "columns": [
+                {
+                    "encoded": true,
+                    "field": "_id",
+                    "filterable": true,
+                    "sortable": true,
+                    "title": "Id"
+                },
+                {
+                    "encoded": true,
+                    "field": "Name",
+                    "filterable": true,
+                    "format": "",
+                    "sortable": true,
+                    "title": "Name"
+                },
+                {
+                    "encoded": true,
+                    "field": "Contact",
+                    "filterable": true,
+                    "format": "",
+                    "sortable": true,
+                    "title": "Contact"
+                },
+                {
+                    "encoded": true,
+                    "field": "SalesRep",
+                    "filterable": true,
+                    "format": "",
+                    "sortable": true,
+                    "title": "SalesRep"
+                },
+                {
+                    "encoded": true,
+                    "field": "Phone",
+                    "filterable": true,
+                    "format": "",
+                    "sortable": true,
+                    "title": "Phone"
+                }
+            ],
+            "customSections": {
+                "bottom": "bottomSection.html",
+                "middle": "middleSection.html",
+                "top": "topSection.html"
+            },
+            "dataProvider": "DataProvider1",
+            "dataSource": "Customer",
+            "editOptions": {
+                "allowDelete": true,
+                "allowEdit": true,
+                "allowInsert": true,
+                "batch": true,
+                "rowButtonLabels": {
+                    "canceledit": "Cancel",
+                    "destroy": "Delete",
+                    "edit": "Edit",
+                    "update": "Update"
+                },
+                "toolbarButtonLabels": {
+                    "cancel": "Cancel changes",
+                    "create": "New",
+                    "save": "Save changes"
+                }
+            },
+            "editable": "ReadOnly",
+            "events": {
+                "hideEventHandler": "onHide",
+                "initEventHandler": "onInit",
+                "onRowCreate": "",
+                "onRowDelete": "",
+                "onRowSelect": "onRowSelect",
+                "onRowUpdate": "",
+                "showEventHandler": "onShow"
+            },
+            "extension": "view-factory.js",
+            "extensionFolderName": "Customer\\Customer",
+            "filterable": false,
+            "groupable": false,
+            "hidden": false,
+            "name": "Customer",
+            "pageSize": 20,
+            "reorderable": false,
+            "resizable": false,
+            "rowTemplateFunction": "",
+            "rowTemplateId": "",
+            "schemaVersion": "1.0",
+            "sortable": false,
+            "title": "Customer",
+            "type": "view",
+            "uniqueID": "84d90a4b-e32e-4fde-9d96-435ad6bf3738",
+            "viewType": "data-grid"
+        }
+    ],
+    "description": "",
+    "moduleType": "default",
+    "name": "Customer",
+    "order": 1,
+    "schemaVersion": "1.0",
+    "thumbnail": {
+        "background": "#00a2e8",
+        "color": "#ffffff",
+        "icon": "fa-area-chart"
+    },
+    "type": "module",
+    "uniqueID": "cec09335-16a4-421a-9a52-b6570f108808"
+}

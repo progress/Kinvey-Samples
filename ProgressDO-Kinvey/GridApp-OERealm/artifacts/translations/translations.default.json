@@ -1,0 +1,50 @@
+{
+  "landing-page": {
+    "noModulesTitle": "There is nothing here yet.",
+    "noModulesMessage": "Modules are the functional components of a web application. Start by adding your first Module in the Kendo UI Designer."
+  },
+  "language": {
+    "label": "English",
+    "culture": "en-US",
+    "order": 0
+  },
+  "modules": {
+    "Application": {
+      "label": "Application",
+      "description": "This Module contains application level pages including the landing page and authentication page",
+      "views": {
+        "unauthorized-page": {
+          "title": "FORBIDDEN"
+        }
+      }
+    },
+    "Customers": {
+      "label": "Customers",
+      "description": "",
+      "views": {
+        "CustomersView": {
+          "label": "CustomersView",
+          "title": "Customers",
+          "columns": {
+            "CustNum": "Cust Num",
+            "Name": "Name",
+            "Country": "Country",
+            "Balance": "Balance",
+            "CreditLimit": "Credit Limit",
+            "undefined": "&nbsp;"
+          },
+          "components": {},
+          "editMessages": {
+            "cancel": "Cancel changes",
+            "create": "New",
+            "save": "Save changes",
+            "canceledit": "Cancel Edit",
+            "destroy": "",
+            "edit": "",
+            "update": "Update"
+          }
+        }
+      }
+    }
+  }
+}

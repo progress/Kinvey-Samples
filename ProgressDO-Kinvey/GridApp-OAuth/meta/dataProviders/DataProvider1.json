@@ -1,0 +1,72 @@
+{
+    "authenticationModel": "Anonymous",
+    "children": [
+        {
+            "actions": {
+                "create": {
+                    "dataType": "jsonp",
+                    "url": ""
+                },
+                "destroy": {
+                    "dataType": "jsonp",
+                    "url": ""
+                },
+                "read": {
+                    "dataType": "json",
+                    "type": "GET",
+                    "url": ""
+                },
+                "update": {
+                    "dataType": "jsonp",
+                    "url": ""
+                }
+            },
+            "fields": [
+                {
+                    "editorType": "text-input",
+                    "fieldType": "string",
+                    "label": "Field Label",
+                    "name": "_id",
+                    "required": true
+                },
+                {
+                    "editorType": "text-input",
+                    "fieldType": "string",
+                    "label": "Name",
+                    "name": "Name"
+                },
+                {
+                    "editorType": "text-input",
+                    "fieldType": "string",
+                    "label": "Contact",
+                    "name": "Contact"
+                },
+                {
+                    "editorType": "text-input",
+                    "fieldType": "string",
+                    "label": "SalesRep",
+                    "name": "SalesRep",
+                    "required": true
+                },
+                {
+                    "editorType": "editor",
+                    "fieldType": "string",
+                    "label": "Phone",
+                    "name": "Phone"
+                }
+            ],
+            "name": "Customer",
+            "schema": {
+                "idField": "Id"
+            },
+            "schemaVersion": "1.0",
+            "type": "rest-data-source",
+            "uniqueID": "be454ebf-ffde-4c17-8360-1824d2c39eb4"
+        }
+    ],
+    "name": "DataProvider1",
+    "schemaVersion": "1.0",
+    "serviceUri": "https://localhost:7007/appdata/kid_B1pUFNGVM/Customer",
+    "type": "rest-data-provider",
+    "uniqueID": "7072b6e1-a834-47a6-b735-359c235daa83"
+}

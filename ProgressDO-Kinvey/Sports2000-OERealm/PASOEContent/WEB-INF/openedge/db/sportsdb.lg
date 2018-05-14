@@ -1,0 +1,1192 @@
+
+                Thu Apr 26 12:15:20 2018
+[2018/04/26@12:15:20.645+2300] P-16524      T-10292 I DBUTIL   : (451)   prostrct create session begin for htirunag on CON:. 
+[2018/04/26@12:15:20.647+2300] P-16524      T-10292 I DBUTIL   : (12862) Structure file sportsdb.st used to create database with blocksize 4096. 
+[2018/04/26@12:15:20.656+2300] P-16524      T-10292 I DBUTIL   : (334)   prostrct create session end. 
+[2018/04/26@12:15:20.666+2300] P-16524      T-10292 I DBUTIL   : (451)   procopy session begin for htirunag on CON:. 
+[2018/04/26@12:15:20.799+2300] P-16524      T-10292 I DBUTIL   : (334)   procopy session end. 
+
+                Thu Apr 26 12:15:20 2018
+[2018/04/26@12:15:20.816+2300] P-16524      T-10292 I          : (451)   procopy get default SQL DBA session begin for htirunag on CON:. 
+[2018/04/26@12:15:20.816+2300] P-16524      T-10292 I          : (15321) Before Image Log Initialization at block 0  offset 0. 
+[2018/04/26@12:15:20.839+2300] P-16524      T-10292 I          : (1365)  Database copied from C:\Kinvey\OpenEdge\sports2000. 
+[2018/04/26@12:15:20.921+2300] P-16524      T-10292 I          : (15109) At Database close the number of live transactions is 0. 
+[2018/04/26@12:15:20.922+2300] P-16524      T-10292 I          : (15743) Before Image Log Completion at Block 0 Offset 632. 
+[2018/04/26@12:15:20.937+2300] P-16524      T-10292 I          : (334)   procopy get default SQL DBA session end. 
+
+                Thu Apr 26 12:15:33 2018
+[2018/04/26@12:15:33.340+2300] P-10144      T-18868 I BROKER  0: (333)   Multi-user session begin. 
+[2018/04/26@12:15:33.340+2300] P-10144      T-18868 I BROKER  0: (15321) Before Image Log Initialization at block 0  offset 632. 
+[2018/04/26@12:15:33.343+2300] P-10144      T-18868 I BROKER  0: (452)   Login by htirunag on CON:. 
+[2018/04/26@12:15:33.349+2300] P-10144      T-18868 I BROKER  0: (12036) The port 7821 is already in use. 
+[2018/04/26@12:15:33.350+2300] P-10144      T-18868 I BROKER  0: (15193) The normal shutdown of the database will continue for 10 Min 0 Sec if required. 
+[2018/04/26@12:15:33.350+2300] P-10144      T-18868 I BROKER  0: (2248)  Begin normal shutdown 
+[2018/04/26@12:15:34.350+2300] P-10144      T-18868 I BROKER  0: (2263)  Resending shutdown request to 0 user(s). 
+[2018/04/26@12:15:38.418+2300] P-10144      T-18868 I BROKER  0: (15109) At Database close the number of live transactions is 0. 
+[2018/04/26@12:15:38.418+2300] P-10144      T-18868 I BROKER  0: (15743) Before Image Log Completion at Block 0 Offset 632. 
+[2018/04/26@12:15:38.419+2300] P-10144      T-18868 I BROKER  0: (453)   Logout by htirunag on CON:. 
+[2018/04/26@12:15:38.422+2300] P-10144      T-18868 I BROKER   : (16869) Removed shared memory with segment_id: 2086254280704 
+[2018/04/26@12:15:38.422+2300] P-10144      T-18868 I BROKER   : (334)   Multi-user session end. 
+
+                Thu Apr 26 12:17:33 2018
+[2018/04/26@12:17:33.610+2300] P-5920       T-18684 I BROKER  0: (333)   Multi-user session begin. 
+[2018/04/26@12:17:33.610+2300] P-5920       T-18684 I BROKER  0: (15321) Before Image Log Initialization at block 0  offset 632. 
+[2018/04/26@12:17:33.613+2300] P-5920       T-18684 I BROKER  0: (452)   Login by htirunag on CON:. 
+[2018/04/26@12:17:33.620+2300] P-5920       T-18684 I BROKER  0: (5644)  Started for 7821 using TCP IPV4 address 0.0.0.0, pid 5920. 
+[2018/04/26@12:17:33.621+2300] P-5920       T-18684 I BROKER  0: (-----) This installation is licensed to: Progress by C:\Kinvey\OpenEdge\progress.cfg.
+[2018/04/26@12:17:33.621+2300] P-5920       T-18684 I BROKER  0: (-----) Product: Progress Dev Studio OE installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:17:33.621+2300] P-5920       T-18684 I BROKER  0: (-----) Product: OE Personal RDBMS installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:17:33.622+2300] P-5920       T-18684 I BROKER  0: (-----) Product: Query/RESULTS installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:17:33.622+2300] P-5920       T-18684 I BROKER  0: (-----) Product: OE Studio installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:17:33.622+2300] P-5920       T-18684 I BROKER  0: (-----) Product: OE Adv. Ent. RDBMS installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:17:33.622+2300] P-5920       T-18684 I BROKER  0: (-----) Product: OE Application Svr Ent installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:17:33.622+2300] P-5920       T-18684 I BROKER  0: (-----) Product: OE Development Server installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:17:33.622+2300] P-5920       T-18684 I BROKER  0: (-----) Product: KendoUI Builder-KUIB installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:17:33.622+2300] P-5920       T-18684 I BROKER  0: (-----) Product: KendoUI Builder installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:17:33.622+2300] P-5920       T-18684 I BROKER  0: (-----) Product: OE SQL Client Access installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:17:33.622+2300] P-5920       T-18684 I BROKER  0: (-----) Product: Progress Dev AS for OE installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:17:33.623+2300] P-5920       T-18684 I BROKER  0: (4234)  Progress OpenEdge Release 11.7 build 1585 SP03 on WINNT . 
+[2018/04/26@12:17:33.623+2300] P-5920       T-18684 I BROKER  0: (4281)  Server started by htirunag on CON:. 
+[2018/04/26@12:17:33.623+2300] P-5920       T-18684 I BROKER  0: (6574)  Started using pid: 5920. 
+[2018/04/26@12:17:33.623+2300] P-5920       T-18684 I BROKER  0: (15219) Encryption enabled: 0 
+[2018/04/26@12:17:33.623+2300] P-5920       T-18684 I BROKER  0: (15824) Multi-tenancy enabled: 0 
+[2018/04/26@12:17:33.623+2300] P-5920       T-18684 I BROKER  0: (15824) Table Partitioning enabled: 0 
+[2018/04/26@12:17:33.623+2300] P-5920       T-18684 I BROKER  0: (15824) Authentication Gateway enabled: 0 
+[2018/04/26@12:17:33.624+2300] P-5920       T-18684 I BROKER  0: (-----) LRU mechanism enabled.
+[2018/04/26@12:17:33.624+2300] P-5920       T-18684 I BROKER  0: (4282)  Parameter File: Not Enabled. 
+[2018/04/26@12:17:33.624+2300] P-5920       T-18684 I BROKER  0: (9336)  Created shared memory with segment_id: 1 
+[2018/04/26@12:17:33.624+2300] P-5920       T-18684 I BROKER  0: (4250)  Before-Image Cluster Size: 524288. 
+[2018/04/26@12:17:33.625+2300] P-5920       T-18684 I BROKER  0: (4251)  Before-Image Block Size: 8192. 
+[2018/04/26@12:17:33.625+2300] P-5920       T-18684 I BROKER  0: (13873) After-image Management Archival Directory List (-aiarcdir): Not Enabled 
+[2018/04/26@12:17:33.625+2300] P-5920       T-18684 I BROKER  0: (13874) Create After-image Management Archival Directory(s) (-aiarcdircreate): Not Enabled 
+[2018/04/26@12:17:33.625+2300] P-5920       T-18684 I BROKER  0: (13872) After-image Management Archival Interval (-aiarcinterval): -1 
+[2018/04/26@12:17:33.625+2300] P-5920       T-18684 I BROKER  0: (4256)  Number of After-Image Buffers (-aibufs): 20 
+[2018/04/26@12:17:33.625+2300] P-5920       T-18684 I BROKER  0: (4254)  After-Image Stall (-aistall): Not Enabled 
+[2018/04/26@12:17:33.625+2300] P-5920       T-18684 I BROKER  0: (17555) Starting index number for statistics range (-baseindex): 1 
+[2018/04/26@12:17:33.626+2300] P-5920       T-18684 I BROKER  0: (17554) Starting table number for statistics range (-basetable): 1 
+[2018/04/26@12:17:33.626+2300] P-5920       T-18684 I BROKER  0: (18406) Starting index number per user for statistics range (-baseuserindex): 1 
+[2018/04/26@12:17:33.626+2300] P-5920       T-18684 I BROKER  0: (18404) Starting table number per user for statistics range (-baseusertable): 1 
+[2018/04/26@12:17:33.626+2300] P-5920       T-18684 I BROKER  0: (4252)  Number of Before-Image Buffers (-bibufs): 20 
+[2018/04/26@12:17:33.626+2300] P-5920       T-18684 I BROKER  0: (6552)  BI File Threshold Stall (-bistall): Disabled. 
+[2018/04/26@12:17:33.626+2300] P-5920       T-18684 I BROKER  0: (9238)  BI File Threshold size (-bithold): 0.0   Bytes 
+[2018/04/26@12:17:33.626+2300] P-5920       T-18684 I BROKER  0: (6573)  Database Blocksize (-blocksize): 4096 
+[2018/04/26@12:17:33.626+2300] P-5920       T-18684 I BROKER  0: (12812) BIW writer delay (-bwdelay): 0 
+[2018/04/26@12:17:33.626+2300] P-5920       T-18684 I BROKER  0: (12813) Allowed index cursors (-c): 84 
+[2018/04/26@12:17:33.626+2300] P-5920       T-18684 I BROKER  0: (18495) CDC cache size (-cdcsize): 200k bytes 
+[2018/04/26@12:17:33.627+2300] P-5920       T-18684 I BROKER  0: (12265) SSL Certificate Store Path (-certstorepath): Not Enabled 
+[2018/04/26@12:17:33.627+2300] P-5920       T-18684 I BROKER  0: (4264)  Character Set (-cpinternal): ISO8859-1 
+[2018/04/26@12:17:33.627+2300] P-5920       T-18684 I BROKER  0: (4235)  Physical Database Name (-db): sportsdb 
+[2018/04/26@12:17:33.627+2300] P-5920       T-18684 I BROKER  0: (18558) Diagnostic directory (-diagDir): Not Enabled 
+[2018/04/26@12:17:33.627+2300] P-5920       T-18684 I BROKER  0: (18576) Diagnostic events value (-diagEvent): LockTable:0,BiThold:0,SysErr:0 
+[2018/04/26@12:17:33.627+2300] P-5920       T-18684 I BROKER  0: (18560) Diagnostic event level (-diagEvtLevel): 0 
+[2018/04/26@12:17:33.627+2300] P-5920       T-18684 I BROKER  0: (18561) Diagnostic field separator (-diagFS): ' ' 
+[2018/04/26@12:17:33.627+2300] P-5920       T-18684 I BROKER  0: (18579) Diagnostic data format (-diagFormat): csv 
+[2018/04/26@12:17:33.627+2300] P-5920       T-18684 I BROKER  0: (18562) Diagnostic pause length (-diagPause): 0 
+[2018/04/26@12:17:33.627+2300] P-5920       T-18684 I BROKER  0: (18563) Diagnostic prefix value (-diagPrefix): diagEvent_ 
+[2018/04/26@12:17:33.627+2300] P-5920       T-18684 I BROKER  0: (4238)  Direct I/O (-directio): Not Enabled 
+[2018/04/26@12:17:33.628+2300] P-5920       T-18684 I BROKER  0: (4236)  Database Type (-dt): PROGRESS 
+[2018/04/26@12:17:33.628+2300] P-5920       T-18684 I BROKER  0: (15218) Encryption cache size (-ecsize): 1000 
+[2018/04/26@12:17:33.628+2300] P-5920       T-18684 I BROKER  0: (12814) Group delay (-groupdelay): 10 
+[2018/04/26@12:17:33.628+2300] P-5920       T-18684 I BROKER  0: (4242)  Hash Table Entries (-hash): 887 
+[2018/04/26@12:17:33.628+2300] P-5920       T-18684 I BROKER  0: (-----) Buffer pool hash table latch percentage (-hashLatchFactor): 10 
+[2018/04/26@12:17:33.628+2300] P-5920       T-18684 I BROKER  0: (4244)  Crash Recovery (-i): Enabled 
+[2018/04/26@12:17:33.628+2300] P-5920       T-18684 I BROKER  0: (17557) Number of indexes included in statistics collection (-indexrangesize): 50 
+[2018/04/26@12:17:33.628+2300] P-5920       T-18684 I BROKER  0: (14268) TCP/IP Version (-ipver): IPV4 
+[2018/04/26@12:17:33.629+2300] P-5920       T-18684 I BROKER  0: (12263) SSL Key Alias Name (-keyalias): Not Enabled 
+[2018/04/26@12:17:33.629+2300] P-5920       T-18684 I BROKER  0: (-----) Database log file archive directory (-lgArchiveDir): Not Enabled 
+[2018/04/26@12:17:33.629+2300] P-5920       T-18684 I BROKER  0: (-----) Archive database log file before truncation (-lgArchiveEnable): Not Enabled 
+[2018/04/26@12:17:33.629+2300] P-5920       T-18684 I BROKER  0: (-----) Frequency of database log file truncation (-lgTruncateFrequency): -1 
+[2018/04/26@12:17:33.629+2300] P-5920       T-18684 I BROKER  0: (-----) The maximum size the database log file can grow before truncation (-lgTruncateSize): 0MB 
+[2018/04/26@12:17:33.629+2300] P-5920       T-18684 I BROKER  0: (-----) Time of day for the database log file truncation (-lgTruncateTime): 00:00 
+[2018/04/26@12:17:33.629+2300] P-5920       T-18684 I BROKER  0: (-----) Limit .lg file payload (-limitLgPayload): Not Enabled
+[2018/04/26@12:17:33.629+2300] P-5920       T-18684 I BROKER  0: (12815) Lock table hash table size (-lkhash): 1237 
+[2018/04/26@12:17:33.630+2300] P-5920       T-18684 I BROKER  0: (17805) Original Lock Release Algorithm (-lkrela): Not Enabled 
+[2018/04/26@12:17:33.630+2300] P-5920       T-18684 I BROKER  0: (17560) Number of LRU force skips (-lruskips): 0 
+[2018/04/26@12:17:33.630+2300] P-5920       T-18684 I BROKER  0: (17561) Number of LRU2 force skips (-lru2skips): 0 
+[2018/04/26@12:17:33.630+2300] P-5920       T-18684 I BROKER  0: (13953) Maximum Area Number (-maxArea): 32000 
+[2018/04/26@12:17:33.630+2300] P-5920       T-18684 I BROKER  0: (12540) Size of JTA transaction table (-maxxids):  100 
+[2018/04/26@12:17:33.630+2300] P-5920       T-18684 I BROKER  0: (5649)  Maximum Port for Auto Servers (-maxport): 5000 
+[2018/04/26@12:17:33.630+2300] P-5920       T-18684 I BROKER  0: (5648)  Minimum Port for Auto Servers (-minport): 3000 
+[2018/04/26@12:17:33.630+2300] P-5920       T-18684 I BROKER  0: (17564) Multi-tenancy partition cache size (-mtpmsize): 1024 
+[2018/04/26@12:17:33.631+2300] P-5920       T-18684 I BROKER  0: (12821) Use muxlatches (-mux): 1 
+[2018/04/26@12:17:33.631+2300] P-5920       T-18684 I BROKER  0: (4260)  Maximum Number of Users (-n): 21 
+[2018/04/26@12:17:33.631+2300] P-5920       T-18684 I BROKER  0: (17566) Minimum time to nap at first -spin exhaustion (-nap): 10 
+[2018/04/26@12:17:33.631+2300] P-5920       T-18684 I BROKER  0: (17565) Maximum time to nap at -spin exhaustion (-napmax): 250 
+[2018/04/26@12:17:33.631+2300] P-5920       T-18684 I BROKER  0: (18522) SSL No Host Verify (-nohostverify): Not Enabled 
+[2018/04/26@12:17:33.631+2300] P-5920       T-18684 I BROKER  0: (17807) Disable LRU mechanism (-nolru): Not Enabled 
+[2018/04/26@12:17:33.631+2300] P-5920       T-18684 I BROKER  0: (12273) SSL No Session Cache (-nosessioncache): Not Enabled 
+[2018/04/26@12:17:33.631+2300] P-5920       T-18684 I BROKER  0: (18521) SSL No Session Reuse (-nosessionreuse): Not Enabled 
+[2018/04/26@12:17:33.631+2300] P-5920       T-18684 I BROKER  0: (16689) Login Governor (-nGovernor): 0 of 21 
+[2018/04/26@12:17:33.631+2300] P-5920       T-18684 I BROKER  0: (18398) Number of checkpoint statistics to record (-numCheckpointStats): 32 
+[2018/04/26@12:17:33.631+2300] P-5920       T-18684 I BROKER  0: (-----) Omit .lg file messages (-omitLgMsgs): 
+[2018/04/26@12:17:33.632+2300] P-5920       T-18684 I BROKER  0: (8527)  Storage object cache size (-omsize): 1024 
+[2018/04/26@12:17:33.632+2300] P-5920       T-18684 I BROKER  0: (13870) Database Service Manager - IPC Queue Size (-pica): 64.0  KBytes 
+[2018/04/26@12:17:33.632+2300] P-5920       T-18684 I BROKER  0: (17802) Shared memory segments locked (-pinshm): Not Enabled 
+[2018/04/26@12:17:33.632+2300] P-5920       T-18684 I BROKER  0: (16953) Use pollset mechanism for client/server (-pollset): Not Enabled 
+[2018/04/26@12:17:33.632+2300] P-5920       T-18684 I BROKER  0: (16955) Delay first prefetch message (-prefetchDelay): Not Enabled 
+[2018/04/26@12:17:33.632+2300] P-5920       T-18684 I BROKER  0: (16956) Prefetch message fill percentage (-prefetchFactor): 0 
+[2018/04/26@12:17:33.632+2300] P-5920       T-18684 I BROKER  0: (16957) Minimum records in prefetch msg (-prefetchNumRecs): 16 
+[2018/04/26@12:17:33.632+2300] P-5920       T-18684 I BROKER  0: (16958) Suspension queue poll priority (-prefetchPriority): 0 
+[2018/04/26@12:17:33.632+2300] P-5920       T-18684 I BROKER  0: (17568) APW queue scan cycle time in milliseconds (-pwqdelay): 100 
+[2018/04/26@12:17:33.633+2300] P-5920       T-18684 I BROKER  0: (17569) APW minimum queue length before write (-pwqmin): 1 
+[2018/04/26@12:17:33.633+2300] P-5920       T-18684 I BROKER  0: (17570) APW buffer scan cycle time in seconds (-pwsdelay): 1 
+[2018/04/26@12:17:33.633+2300] P-5920       T-18684 I BROKER  0: (17571) APW maximum number of buffers to scan per cycle (-pwscan): 5 
+[2018/04/26@12:17:33.633+2300] P-5920       T-18684 I BROKER  0: (17572) APW maximum number of buffers to write per cycle (-pwwmax): 25 
+[2018/04/26@12:17:33.633+2300] P-5920       T-18684 I BROKER  0: (4247)  Before-Image File I/O (-r -R): Reliable 
+[2018/04/26@12:17:33.633+2300] P-5920       T-18684 I BROKER  0: (17563) Record free chain search depth factor (-recspacesearchdepth): 5 
+[2018/04/26@12:17:33.633+2300] P-5920       T-18684 I BROKER  0: (18478) Security cache size (-secsize): 512 
+[2018/04/26@12:17:33.633+2300] P-5920       T-18684 I BROKER  0: (6526)  Number of Semaphore Sets (-semsets): 3 
+[2018/04/26@12:17:33.633+2300] P-5920       T-18684 I BROKER  0: (12264) SSL Session Timeout (-sessiontimeout): 0 
+[2018/04/26@12:17:33.633+2300] P-5920       T-18684 I BROKER  0: (13924) Maximum Shared Memory Segment Size (-shmsegsize): 1024 Mb 
+[2018/04/26@12:17:33.633+2300] P-5920       T-18684 I BROKER  0: (4243)  Current Spin Lock Tries (-spin): 24000 
+[2018/04/26@12:17:33.633+2300] P-5920       T-18684 I BROKER  0: (17803) SSL Encryption for TCP/IP connections (-ssl): Not Enabled 
+[2018/04/26@12:17:33.634+2300] P-5920       T-18684 I BROKER  0: (18525) STS Debug Logging Level default (-stslogginglevel): 0 
+[2018/04/26@12:17:33.634+2300] P-5920       T-18684 I BROKER  0: (17556) Number of tables included in statistics collection (-tablerangesize): 50 
+[2018/04/26@12:17:33.634+2300] P-5920       T-18684 I BROKER  0: (18118) User Notification Time (-usernotifytime): 0 seconds 
+[2018/04/26@12:17:33.634+2300] P-5920       T-18684 I BROKER  0: (18407) Number of indexes per user included in statistics collection (-userindexrangesize): 50 
+[2018/04/26@12:17:33.634+2300] P-5920       T-18684 I BROKER  0: (18405) Number of tables per user included in statistics collection (-usertablerangesize): 50 
+[2018/04/26@12:17:33.634+2300] P-5920       T-18684 I BROKER  0: (14017) Area block consistency check (-AreaCheck): Not Enabled 
+[2018/04/26@12:17:33.634+2300] P-5920       T-18684 I BROKER  0: (4239)  Number of Database Buffers (-B): 3000 
+[2018/04/26@12:17:33.634+2300] P-5920       T-18684 I BROKER  0: (17562) Number of Alternate Database Buffers (-B2): 0 
+[2018/04/26@12:17:33.634+2300] P-5920       T-18684 I BROKER  0: (9422)  Maximum private buffers per user (-Bpmax): 64 
+[2018/04/26@12:17:33.635+2300] P-5920       T-18684 I BROKER  0: (14016) Database block consistency check (-DbCheck): Not Enabled 
+[2018/04/26@12:17:33.635+2300] P-5920       T-18684 I BROKER  0: (13869) Database Service Manager - Service(s) to start (-DBService): Not Enabled 
+[2018/04/26@12:17:33.635+2300] P-5920       T-18684 I BROKER  0: (10535) Enhanced Read-Only mode (-ERO): Not Enabled 
+[2018/04/26@12:17:33.635+2300] P-5920       T-18684 I BROKER  0: (4237)  Force Access (-F): Not Enabled 
+[2018/04/26@12:17:33.635+2300] P-5920       T-18684 I BROKER  0: (4249)  Before-Image Truncate Interval (-G): 0 
+[2018/04/26@12:17:33.635+2300] P-5920       T-18684 I BROKER  0: (4261)  Host Name (-H): NBHYDHTIRUNAG10 
+[2018/04/26@12:17:33.635+2300] P-5920       T-18684 I BROKER  0: (14018) Index block consistency check (-IndexCheck): Not Enabled 
+[2018/04/26@12:17:33.635+2300] P-5920       T-18684 I BROKER  0: (4241)  Current Size of Lock Table (-L): 8192 
+[2018/04/26@12:17:33.635+2300] P-5920       T-18684 I BROKER  0: (16688) Lock Governor (-LGovernor): 0% 
+[2018/04/26@12:17:33.635+2300] P-5920       T-18684 I BROKER  0: (4257)  Maximum Number of Clients Per Server (-Ma): 5 
+[2018/04/26@12:17:33.635+2300] P-5920       T-18684 I BROKER  0: (14016) Memory overwrite check (-MemCheck): Not Enabled 
+[2018/04/26@12:17:33.635+2300] P-5920       T-18684 I BROKER  0: (4245)  Delay of Before-Image Flush (-Mf): 3 
+[2018/04/26@12:17:33.636+2300] P-5920       T-18684 I BROKER  0: (4259)  Minimum Clients Per Server (-Mi): 1 
+[2018/04/26@12:17:33.636+2300] P-5920       T-18684 I BROKER  0: (12818) Message Buffer Size (-Mm): 1024 
+[2018/04/26@12:17:33.636+2300] P-5920       T-18684 I BROKER  0: (4258)  Maximum Number of Servers (-Mn): 5 
+[2018/04/26@12:17:33.636+2300] P-5920       T-18684 I BROKER  0: (12819) Servers per Protocol (-Mp): 0 
+[2018/04/26@12:17:33.636+2300] P-5920       T-18684 I BROKER  0: (5647)  Maximum Servers Per Broker (-Mpb): 0 
+[2018/04/26@12:17:33.636+2300] P-5920       T-18684 I BROKER  0: (4240)  Excess Shared Memory Size (-Mxs): 23 
+[2018/04/26@12:17:33.636+2300] P-5920       T-18684 I BROKER  0: (4263)  Network Type (-N): TCP 
+[2018/04/26@12:17:33.636+2300] P-5920       T-18684 I BROKER  0: (16954) Server network message wait time (-Nmsgwait): 2 
+[2018/04/26@12:17:33.636+2300] P-5920       T-18684 I BROKER  0: (10357) Pending client connection timeout (-PendConnTimeout): 0 
+[2018/04/26@12:17:33.636+2300] P-5920       T-18684 I BROKER  0: (4262)  Service Name (-S): 7821 
+[2018/04/26@12:17:33.636+2300] P-5920       T-18684 I BROKER  0: (17804) Broker server group support (-ServerType): BOTH 
+[2018/04/26@12:17:33.637+2300] P-5920       T-18684 I BROKER  0: (10028) SQL Server Max Open Cursors (-SQLCursors): 0 
+[2018/04/26@12:17:33.637+2300] P-5920       T-18684 I BROKER  0: (10026) SQL Server Stack Size (-SQLStack): 0 
+[2018/04/26@12:17:33.637+2300] P-5920       T-18684 I BROKER  0: (10027) SQL Server Statement Cache Size (-SQLStmtCache): 0 
+[2018/04/26@12:17:33.637+2300] P-5920       T-18684 I BROKER  0: (10029) Size [1K byte units] of SQL Server temp table buffer (-SQLTempStoreBuff): 0 
+[2018/04/26@12:17:33.637+2300] P-5920       T-18684 I BROKER  0: (10030) Size [1K byte units] of SQL Server temp table disk storage (-SQLTempStoreDisk): 0 
+[2018/04/26@12:17:33.637+2300] P-5920       T-18684 I BROKER  0: (10031) Size [1K byte units] of SQL Server temp table data page (-SQLTempStorePageSize): 0 
+[2018/04/26@12:17:33.637+2300] P-5920       T-18684 I BROKER  0: (17955) Authorized data truncation (-SQLTruncateTooLarge): OFF 
+[2018/04/26@12:17:33.637+2300] P-5920       T-18684 I BROKER  0: (18156) SQL Autonomous Schema Update (-SQLWidthUpdate): OFF 
+[2018/04/26@12:17:33.637+2300] P-5920       T-18684 I BROKER  0: (14019) Record block consistency check (-TableCheck): Not Enabled 
+[2018/04/26@12:17:33.637+2300] P-5920       T-18684 I BROKER  0: (17717) TXE Lock retry limit (-TXERetryLimit): 0 
+[2018/04/26@12:17:33.637+2300] P-5920       T-18684 I BROKER  0: (13896) TXE Commit lock skip limit (-TXESkipLimit): 10000 
+[2018/04/26@12:17:33.639+2300] P-5920       T-18684 I BROKER  0: (10836) Database connections are not allowed at this time. 
+[2018/04/26@12:17:33.639+2300] P-5920       T-18684 I BROKER  0: (10471) Database connections have been enabled. 
+[2018/04/26@12:17:37.995+2300] P-928        T-19156 I SQLSRV2 1: (-----) SQL Server 11.7.03 started, configuration: "sportsdb.virtualconfig" 
+[2018/04/26@12:17:38.014+2300] P-928        T-19156 I SQLSRV2 1: (-----) "sportsdb" started on IPv4 port 3001 for address 0.0.0.0, pid 928 (0x000003a0).
+[2018/04/26@12:17:38.014+2300] P-928        T-19156 I SQLSRV2 1: (-----) Thread stack size: 1024000 (bytes).
+[2018/04/26@12:17:38.014+2300] P-928        T-19156 I SQLSRV2 1: (-----) DLC from ENVIRONMENT VARIABLE is: C:\Kinvey\OpenEdge 
+[2018/04/26@12:17:38.014+2300] P-928        T-19156 I SQLSRV2 1: (-----) WRKDIR from ENVIRONMENT VARIABLE is: C:\Kinvey\WRK\ 
+[2018/04/26@12:17:38.014+2300] P-928        T-19156 I SQLSRV2 1: (-----) JDKHOME from REGISTRY is: C:\Kinvey\OpenEdge\jdk 
+[2018/04/26@12:17:38.014+2300] P-928        T-19156 I SQLSRV2 1: (-----) JREHOME from REGISTRY is: C:\Kinvey\OpenEdge\jre 
+[2018/04/26@12:17:38.014+2300] P-928        T-19156 I SQLSRV2 1: (-----) CLASSPATH from ENVIRONMENT VARIABLE is: .; 
+[2018/04/26@12:17:38.014+2300] P-928        T-19156 I SQLSRV2 1: (-----) PROSQL_LOCKWAIT_TIMEOUT value is: 5 seconds
+[2018/04/26@12:17:38.713+2300] P-928        T-17364 I SRV     1: (8873)  Login usernum 24, remote SQL client. 
+[2018/04/26@12:17:38.714+2300] P-928        T-17364 I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@12:17:38.718+2300] P-928        T-17364 I SQLSRV2 1: (-----) Login by user 24. Using TCP/IP IPV4 address 127.0.0.1
+[2018/04/26@12:18:03.612+2300] P-928        T-17364 I SQLSRV2 1: (-----) Logout by user 24.
+[2018/04/26@12:18:03.612+2300] P-928        T-17364 I SRV     1: (453)   Logout by htirunag on  . 
+[2018/04/26@12:18:07.298+2300] P-5696       T-2080  I SHUT    5: (452)   Login by htirunag on CON:. 
+[2018/04/26@12:18:08.543+2300] P-5696       T-2080  I SHUT    5: (542)   Server shutdown started by htirunag on CON:. 
+[2018/04/26@12:18:08.566+2300] P-5920       T-18684 I BROKER  0: (15193) The normal shutdown of the database will continue for 10 Min 0 Sec if required. 
+[2018/04/26@12:18:08.566+2300] P-5920       T-18684 I BROKER  0: (2248)  Begin normal shutdown 
+[2018/04/26@12:18:09.566+2300] P-5920       T-18684 I BROKER  0: (2263)  Resending shutdown request to 0 user(s). 
+[2018/04/26@12:18:13.613+2300] P-5920       T-18684 I BROKER  0: (15109) At Database close the number of live transactions is 0. 
+[2018/04/26@12:18:13.613+2300] P-5920       T-18684 I BROKER  0: (15743) Before Image Log Completion at Block 0 Offset 1752. 
+[2018/04/26@12:18:13.614+2300] P-5920       T-18684 I BROKER  0: (453)   Logout by htirunag on CON:. 
+[2018/04/26@12:18:13.616+2300] P-5920       T-18684 I BROKER   : (16869) Removed shared memory with segment_id: 1491303858176 
+[2018/04/26@12:18:13.617+2300] P-5920       T-18684 I BROKER   : (334)   Multi-user session end. 
+[2018/04/26@12:18:14.556+2300] P-5696       T-2080  I SHUT    5: (453)   Logout by htirunag on CON:. 
+
+                Thu Apr 26 12:19:17 2018
+[2018/04/26@12:19:17.994+2300] P-5624       T-15404 I BROKER  0: (333)   Multi-user session begin. 
+[2018/04/26@12:19:17.995+2300] P-5624       T-15404 I BROKER  0: (15321) Before Image Log Initialization at block 0  offset 1752. 
+[2018/04/26@12:19:17.999+2300] P-5624       T-15404 I BROKER  0: (452)   Login by htirunag on CON:. 
+[2018/04/26@12:19:18.006+2300] P-5624       T-15404 I BROKER  0: (5644)  Started for 7821 using TCP IPV4 address 0.0.0.0, pid 5624. 
+[2018/04/26@12:19:18.007+2300] P-5624       T-15404 I BROKER  0: (-----) This installation is licensed to: Progress by C:\Kinvey\OpenEdge\progress.cfg.
+[2018/04/26@12:19:18.007+2300] P-5624       T-15404 I BROKER  0: (-----) Product: Progress Dev Studio OE installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:19:18.007+2300] P-5624       T-15404 I BROKER  0: (-----) Product: OE Personal RDBMS installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:19:18.007+2300] P-5624       T-15404 I BROKER  0: (-----) Product: Query/RESULTS installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:19:18.007+2300] P-5624       T-15404 I BROKER  0: (-----) Product: OE Studio installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:19:18.007+2300] P-5624       T-15404 I BROKER  0: (-----) Product: OE Adv. Ent. RDBMS installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:19:18.007+2300] P-5624       T-15404 I BROKER  0: (-----) Product: OE Application Svr Ent installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:19:18.007+2300] P-5624       T-15404 I BROKER  0: (-----) Product: OE Development Server installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:19:18.007+2300] P-5624       T-15404 I BROKER  0: (-----) Product: KendoUI Builder-KUIB installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:19:18.007+2300] P-5624       T-15404 I BROKER  0: (-----) Product: KendoUI Builder installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:19:18.007+2300] P-5624       T-15404 I BROKER  0: (-----) Product: OE SQL Client Access installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:19:18.008+2300] P-5624       T-15404 I BROKER  0: (-----) Product: Progress Dev AS for OE installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:19:18.008+2300] P-5624       T-15404 I BROKER  0: (4234)  Progress OpenEdge Release 11.7 build 1585 SP03 on WINNT . 
+[2018/04/26@12:19:18.008+2300] P-5624       T-15404 I BROKER  0: (4281)  Server started by htirunag on CON:. 
+[2018/04/26@12:19:18.008+2300] P-5624       T-15404 I BROKER  0: (6574)  Started using pid: 5624. 
+[2018/04/26@12:19:18.008+2300] P-5624       T-15404 I BROKER  0: (15219) Encryption enabled: 0 
+[2018/04/26@12:19:18.008+2300] P-5624       T-15404 I BROKER  0: (15824) Multi-tenancy enabled: 0 
+[2018/04/26@12:19:18.008+2300] P-5624       T-15404 I BROKER  0: (15824) Table Partitioning enabled: 0 
+[2018/04/26@12:19:18.008+2300] P-5624       T-15404 I BROKER  0: (15824) Authentication Gateway enabled: 0 
+[2018/04/26@12:19:18.008+2300] P-5624       T-15404 I BROKER  0: (-----) LRU mechanism enabled.
+[2018/04/26@12:19:18.008+2300] P-5624       T-15404 I BROKER  0: (4282)  Parameter File: Not Enabled. 
+[2018/04/26@12:19:18.009+2300] P-5624       T-15404 I BROKER  0: (9336)  Created shared memory with segment_id: 1 
+[2018/04/26@12:19:18.009+2300] P-5624       T-15404 I BROKER  0: (4250)  Before-Image Cluster Size: 524288. 
+[2018/04/26@12:19:18.009+2300] P-5624       T-15404 I BROKER  0: (4251)  Before-Image Block Size: 8192. 
+[2018/04/26@12:19:18.009+2300] P-5624       T-15404 I BROKER  0: (13873) After-image Management Archival Directory List (-aiarcdir): Not Enabled 
+[2018/04/26@12:19:18.009+2300] P-5624       T-15404 I BROKER  0: (13874) Create After-image Management Archival Directory(s) (-aiarcdircreate): Not Enabled 
+[2018/04/26@12:19:18.009+2300] P-5624       T-15404 I BROKER  0: (13872) After-image Management Archival Interval (-aiarcinterval): -1 
+[2018/04/26@12:19:18.009+2300] P-5624       T-15404 I BROKER  0: (4256)  Number of After-Image Buffers (-aibufs): 20 
+[2018/04/26@12:19:18.009+2300] P-5624       T-15404 I BROKER  0: (4254)  After-Image Stall (-aistall): Not Enabled 
+[2018/04/26@12:19:18.009+2300] P-5624       T-15404 I BROKER  0: (17555) Starting index number for statistics range (-baseindex): 1 
+[2018/04/26@12:19:18.009+2300] P-5624       T-15404 I BROKER  0: (17554) Starting table number for statistics range (-basetable): 1 
+[2018/04/26@12:19:18.010+2300] P-5624       T-15404 I BROKER  0: (18406) Starting index number per user for statistics range (-baseuserindex): 1 
+[2018/04/26@12:19:18.010+2300] P-5624       T-15404 I BROKER  0: (18404) Starting table number per user for statistics range (-baseusertable): 1 
+[2018/04/26@12:19:18.010+2300] P-5624       T-15404 I BROKER  0: (4252)  Number of Before-Image Buffers (-bibufs): 20 
+[2018/04/26@12:19:18.010+2300] P-5624       T-15404 I BROKER  0: (6552)  BI File Threshold Stall (-bistall): Disabled. 
+[2018/04/26@12:19:18.010+2300] P-5624       T-15404 I BROKER  0: (9238)  BI File Threshold size (-bithold): 0.0   Bytes 
+[2018/04/26@12:19:18.010+2300] P-5624       T-15404 I BROKER  0: (6573)  Database Blocksize (-blocksize): 4096 
+[2018/04/26@12:19:18.010+2300] P-5624       T-15404 I BROKER  0: (12812) BIW writer delay (-bwdelay): 0 
+[2018/04/26@12:19:18.010+2300] P-5624       T-15404 I BROKER  0: (12813) Allowed index cursors (-c): 84 
+[2018/04/26@12:19:18.010+2300] P-5624       T-15404 I BROKER  0: (18495) CDC cache size (-cdcsize): 200k bytes 
+[2018/04/26@12:19:18.010+2300] P-5624       T-15404 I BROKER  0: (12265) SSL Certificate Store Path (-certstorepath): Not Enabled 
+[2018/04/26@12:19:18.010+2300] P-5624       T-15404 I BROKER  0: (4264)  Character Set (-cpinternal): ISO8859-1 
+[2018/04/26@12:19:18.010+2300] P-5624       T-15404 I BROKER  0: (4235)  Physical Database Name (-db): sportsdb 
+[2018/04/26@12:19:18.011+2300] P-5624       T-15404 I BROKER  0: (18558) Diagnostic directory (-diagDir): Not Enabled 
+[2018/04/26@12:19:18.011+2300] P-5624       T-15404 I BROKER  0: (18576) Diagnostic events value (-diagEvent): LockTable:0,BiThold:0,SysErr:0 
+[2018/04/26@12:19:18.011+2300] P-5624       T-15404 I BROKER  0: (18560) Diagnostic event level (-diagEvtLevel): 0 
+[2018/04/26@12:19:18.011+2300] P-5624       T-15404 I BROKER  0: (18561) Diagnostic field separator (-diagFS): ' ' 
+[2018/04/26@12:19:18.011+2300] P-5624       T-15404 I BROKER  0: (18579) Diagnostic data format (-diagFormat): csv 
+[2018/04/26@12:19:18.011+2300] P-5624       T-15404 I BROKER  0: (18562) Diagnostic pause length (-diagPause): 0 
+[2018/04/26@12:19:18.011+2300] P-5624       T-15404 I BROKER  0: (18563) Diagnostic prefix value (-diagPrefix): diagEvent_ 
+[2018/04/26@12:19:18.011+2300] P-5624       T-15404 I BROKER  0: (4238)  Direct I/O (-directio): Not Enabled 
+[2018/04/26@12:19:18.011+2300] P-5624       T-15404 I BROKER  0: (4236)  Database Type (-dt): PROGRESS 
+[2018/04/26@12:19:18.011+2300] P-5624       T-15404 I BROKER  0: (15218) Encryption cache size (-ecsize): 1000 
+[2018/04/26@12:19:18.011+2300] P-5624       T-15404 I BROKER  0: (12814) Group delay (-groupdelay): 10 
+[2018/04/26@12:19:18.011+2300] P-5624       T-15404 I BROKER  0: (4242)  Hash Table Entries (-hash): 887 
+[2018/04/26@12:19:18.012+2300] P-5624       T-15404 I BROKER  0: (-----) Buffer pool hash table latch percentage (-hashLatchFactor): 10 
+[2018/04/26@12:19:18.012+2300] P-5624       T-15404 I BROKER  0: (4244)  Crash Recovery (-i): Enabled 
+[2018/04/26@12:19:18.012+2300] P-5624       T-15404 I BROKER  0: (17557) Number of indexes included in statistics collection (-indexrangesize): 50 
+[2018/04/26@12:19:18.012+2300] P-5624       T-15404 I BROKER  0: (14268) TCP/IP Version (-ipver): IPV4 
+[2018/04/26@12:19:18.012+2300] P-5624       T-15404 I BROKER  0: (12263) SSL Key Alias Name (-keyalias): Not Enabled 
+[2018/04/26@12:19:18.012+2300] P-5624       T-15404 I BROKER  0: (-----) Database log file archive directory (-lgArchiveDir): Not Enabled 
+[2018/04/26@12:19:18.012+2300] P-5624       T-15404 I BROKER  0: (-----) Archive database log file before truncation (-lgArchiveEnable): Not Enabled 
+[2018/04/26@12:19:18.012+2300] P-5624       T-15404 I BROKER  0: (-----) Frequency of database log file truncation (-lgTruncateFrequency): -1 
+[2018/04/26@12:19:18.012+2300] P-5624       T-15404 I BROKER  0: (-----) The maximum size the database log file can grow before truncation (-lgTruncateSize): 0MB 
+[2018/04/26@12:19:18.012+2300] P-5624       T-15404 I BROKER  0: (-----) Time of day for the database log file truncation (-lgTruncateTime): 00:00 
+[2018/04/26@12:19:18.013+2300] P-5624       T-15404 I BROKER  0: (-----) Limit .lg file payload (-limitLgPayload): Not Enabled
+[2018/04/26@12:19:18.013+2300] P-5624       T-15404 I BROKER  0: (12815) Lock table hash table size (-lkhash): 1237 
+[2018/04/26@12:19:18.013+2300] P-5624       T-15404 I BROKER  0: (17805) Original Lock Release Algorithm (-lkrela): Not Enabled 
+[2018/04/26@12:19:18.013+2300] P-5624       T-15404 I BROKER  0: (17560) Number of LRU force skips (-lruskips): 0 
+[2018/04/26@12:19:18.013+2300] P-5624       T-15404 I BROKER  0: (17561) Number of LRU2 force skips (-lru2skips): 0 
+[2018/04/26@12:19:18.013+2300] P-5624       T-15404 I BROKER  0: (13953) Maximum Area Number (-maxArea): 32000 
+[2018/04/26@12:19:18.013+2300] P-5624       T-15404 I BROKER  0: (12540) Size of JTA transaction table (-maxxids):  100 
+[2018/04/26@12:19:18.013+2300] P-5624       T-15404 I BROKER  0: (5649)  Maximum Port for Auto Servers (-maxport): 5000 
+[2018/04/26@12:19:18.013+2300] P-5624       T-15404 I BROKER  0: (5648)  Minimum Port for Auto Servers (-minport): 3000 
+[2018/04/26@12:19:18.013+2300] P-5624       T-15404 I BROKER  0: (17564) Multi-tenancy partition cache size (-mtpmsize): 1024 
+[2018/04/26@12:19:18.013+2300] P-5624       T-15404 I BROKER  0: (12821) Use muxlatches (-mux): 1 
+[2018/04/26@12:19:18.013+2300] P-5624       T-15404 I BROKER  0: (4260)  Maximum Number of Users (-n): 21 
+[2018/04/26@12:19:18.014+2300] P-5624       T-15404 I BROKER  0: (17566) Minimum time to nap at first -spin exhaustion (-nap): 10 
+[2018/04/26@12:19:18.014+2300] P-5624       T-15404 I BROKER  0: (17565) Maximum time to nap at -spin exhaustion (-napmax): 250 
+[2018/04/26@12:19:18.014+2300] P-5624       T-15404 I BROKER  0: (18522) SSL No Host Verify (-nohostverify): Not Enabled 
+[2018/04/26@12:19:18.014+2300] P-5624       T-15404 I BROKER  0: (17807) Disable LRU mechanism (-nolru): Not Enabled 
+[2018/04/26@12:19:18.014+2300] P-5624       T-15404 I BROKER  0: (12273) SSL No Session Cache (-nosessioncache): Not Enabled 
+[2018/04/26@12:19:18.014+2300] P-5624       T-15404 I BROKER  0: (18521) SSL No Session Reuse (-nosessionreuse): Not Enabled 
+[2018/04/26@12:19:18.014+2300] P-5624       T-15404 I BROKER  0: (16689) Login Governor (-nGovernor): 0 of 21 
+[2018/04/26@12:19:18.014+2300] P-5624       T-15404 I BROKER  0: (18398) Number of checkpoint statistics to record (-numCheckpointStats): 32 
+[2018/04/26@12:19:18.014+2300] P-5624       T-15404 I BROKER  0: (-----) Omit .lg file messages (-omitLgMsgs): 
+[2018/04/26@12:19:18.015+2300] P-5624       T-15404 I BROKER  0: (8527)  Storage object cache size (-omsize): 1024 
+[2018/04/26@12:19:18.015+2300] P-5624       T-15404 I BROKER  0: (13870) Database Service Manager - IPC Queue Size (-pica): 64.0  KBytes 
+[2018/04/26@12:19:18.015+2300] P-5624       T-15404 I BROKER  0: (17802) Shared memory segments locked (-pinshm): Not Enabled 
+[2018/04/26@12:19:18.015+2300] P-5624       T-15404 I BROKER  0: (16953) Use pollset mechanism for client/server (-pollset): Not Enabled 
+[2018/04/26@12:19:18.015+2300] P-5624       T-15404 I BROKER  0: (16955) Delay first prefetch message (-prefetchDelay): Not Enabled 
+[2018/04/26@12:19:18.015+2300] P-5624       T-15404 I BROKER  0: (16956) Prefetch message fill percentage (-prefetchFactor): 0 
+[2018/04/26@12:19:18.015+2300] P-5624       T-15404 I BROKER  0: (16957) Minimum records in prefetch msg (-prefetchNumRecs): 16 
+[2018/04/26@12:19:18.016+2300] P-5624       T-15404 I BROKER  0: (16958) Suspension queue poll priority (-prefetchPriority): 0 
+[2018/04/26@12:19:18.016+2300] P-5624       T-15404 I BROKER  0: (17568) APW queue scan cycle time in milliseconds (-pwqdelay): 100 
+[2018/04/26@12:19:18.016+2300] P-5624       T-15404 I BROKER  0: (17569) APW minimum queue length before write (-pwqmin): 1 
+[2018/04/26@12:19:18.016+2300] P-5624       T-15404 I BROKER  0: (17570) APW buffer scan cycle time in seconds (-pwsdelay): 1 
+[2018/04/26@12:19:18.016+2300] P-5624       T-15404 I BROKER  0: (17571) APW maximum number of buffers to scan per cycle (-pwscan): 5 
+[2018/04/26@12:19:18.017+2300] P-5624       T-15404 I BROKER  0: (17572) APW maximum number of buffers to write per cycle (-pwwmax): 25 
+[2018/04/26@12:19:18.017+2300] P-5624       T-15404 I BROKER  0: (4247)  Before-Image File I/O (-r -R): Reliable 
+[2018/04/26@12:19:18.017+2300] P-5624       T-15404 I BROKER  0: (17563) Record free chain search depth factor (-recspacesearchdepth): 5 
+[2018/04/26@12:19:18.017+2300] P-5624       T-15404 I BROKER  0: (18478) Security cache size (-secsize): 512 
+[2018/04/26@12:19:18.017+2300] P-5624       T-15404 I BROKER  0: (6526)  Number of Semaphore Sets (-semsets): 3 
+[2018/04/26@12:19:18.017+2300] P-5624       T-15404 I BROKER  0: (12264) SSL Session Timeout (-sessiontimeout): 0 
+[2018/04/26@12:19:18.017+2300] P-5624       T-15404 I BROKER  0: (13924) Maximum Shared Memory Segment Size (-shmsegsize): 1024 Mb 
+[2018/04/26@12:19:18.017+2300] P-5624       T-15404 I BROKER  0: (4243)  Current Spin Lock Tries (-spin): 24000 
+[2018/04/26@12:19:18.018+2300] P-5624       T-15404 I BROKER  0: (17803) SSL Encryption for TCP/IP connections (-ssl): Not Enabled 
+[2018/04/26@12:19:18.018+2300] P-5624       T-15404 I BROKER  0: (18525) STS Debug Logging Level default (-stslogginglevel): 0 
+[2018/04/26@12:19:18.018+2300] P-5624       T-15404 I BROKER  0: (17556) Number of tables included in statistics collection (-tablerangesize): 50 
+[2018/04/26@12:19:18.018+2300] P-5624       T-15404 I BROKER  0: (18118) User Notification Time (-usernotifytime): 0 seconds 
+[2018/04/26@12:19:18.018+2300] P-5624       T-15404 I BROKER  0: (18407) Number of indexes per user included in statistics collection (-userindexrangesize): 50 
+[2018/04/26@12:19:18.018+2300] P-5624       T-15404 I BROKER  0: (18405) Number of tables per user included in statistics collection (-usertablerangesize): 50 
+[2018/04/26@12:19:18.019+2300] P-5624       T-15404 I BROKER  0: (14017) Area block consistency check (-AreaCheck): Not Enabled 
+[2018/04/26@12:19:18.019+2300] P-5624       T-15404 I BROKER  0: (4239)  Number of Database Buffers (-B): 3000 
+[2018/04/26@12:19:18.019+2300] P-5624       T-15404 I BROKER  0: (17562) Number of Alternate Database Buffers (-B2): 0 
+[2018/04/26@12:19:18.019+2300] P-5624       T-15404 I BROKER  0: (9422)  Maximum private buffers per user (-Bpmax): 64 
+[2018/04/26@12:19:18.019+2300] P-5624       T-15404 I BROKER  0: (14016) Database block consistency check (-DbCheck): Not Enabled 
+[2018/04/26@12:19:18.019+2300] P-5624       T-15404 I BROKER  0: (13869) Database Service Manager - Service(s) to start (-DBService): Not Enabled 
+[2018/04/26@12:19:18.019+2300] P-5624       T-15404 I BROKER  0: (10535) Enhanced Read-Only mode (-ERO): Not Enabled 
+[2018/04/26@12:19:18.019+2300] P-5624       T-15404 I BROKER  0: (4237)  Force Access (-F): Not Enabled 
+[2018/04/26@12:19:18.019+2300] P-5624       T-15404 I BROKER  0: (4249)  Before-Image Truncate Interval (-G): 0 
+[2018/04/26@12:19:18.020+2300] P-5624       T-15404 I BROKER  0: (4261)  Host Name (-H): NBHYDHTIRUNAG10 
+[2018/04/26@12:19:18.020+2300] P-5624       T-15404 I BROKER  0: (14018) Index block consistency check (-IndexCheck): Not Enabled 
+[2018/04/26@12:19:18.020+2300] P-5624       T-15404 I BROKER  0: (4241)  Current Size of Lock Table (-L): 8192 
+[2018/04/26@12:19:18.020+2300] P-5624       T-15404 I BROKER  0: (16688) Lock Governor (-LGovernor): 0% 
+[2018/04/26@12:19:18.020+2300] P-5624       T-15404 I BROKER  0: (4257)  Maximum Number of Clients Per Server (-Ma): 5 
+[2018/04/26@12:19:18.020+2300] P-5624       T-15404 I BROKER  0: (14016) Memory overwrite check (-MemCheck): Not Enabled 
+[2018/04/26@12:19:18.020+2300] P-5624       T-15404 I BROKER  0: (4245)  Delay of Before-Image Flush (-Mf): 3 
+[2018/04/26@12:19:18.020+2300] P-5624       T-15404 I BROKER  0: (4259)  Minimum Clients Per Server (-Mi): 1 
+[2018/04/26@12:19:18.020+2300] P-5624       T-15404 I BROKER  0: (12818) Message Buffer Size (-Mm): 1024 
+[2018/04/26@12:19:18.020+2300] P-5624       T-15404 I BROKER  0: (4258)  Maximum Number of Servers (-Mn): 5 
+[2018/04/26@12:19:18.020+2300] P-5624       T-15404 I BROKER  0: (12819) Servers per Protocol (-Mp): 0 
+[2018/04/26@12:19:18.020+2300] P-5624       T-15404 I BROKER  0: (5647)  Maximum Servers Per Broker (-Mpb): 0 
+[2018/04/26@12:19:18.020+2300] P-5624       T-15404 I BROKER  0: (4240)  Excess Shared Memory Size (-Mxs): 23 
+[2018/04/26@12:19:18.021+2300] P-5624       T-15404 I BROKER  0: (4263)  Network Type (-N): TCP 
+[2018/04/26@12:19:18.021+2300] P-5624       T-15404 I BROKER  0: (16954) Server network message wait time (-Nmsgwait): 2 
+[2018/04/26@12:19:18.021+2300] P-5624       T-15404 I BROKER  0: (10357) Pending client connection timeout (-PendConnTimeout): 0 
+[2018/04/26@12:19:18.021+2300] P-5624       T-15404 I BROKER  0: (4262)  Service Name (-S): 7821 
+[2018/04/26@12:19:18.021+2300] P-5624       T-15404 I BROKER  0: (17804) Broker server group support (-ServerType): BOTH 
+[2018/04/26@12:19:18.021+2300] P-5624       T-15404 I BROKER  0: (10028) SQL Server Max Open Cursors (-SQLCursors): 0 
+[2018/04/26@12:19:18.021+2300] P-5624       T-15404 I BROKER  0: (10026) SQL Server Stack Size (-SQLStack): 0 
+[2018/04/26@12:19:18.021+2300] P-5624       T-15404 I BROKER  0: (10027) SQL Server Statement Cache Size (-SQLStmtCache): 0 
+[2018/04/26@12:19:18.021+2300] P-5624       T-15404 I BROKER  0: (10029) Size [1K byte units] of SQL Server temp table buffer (-SQLTempStoreBuff): 0 
+[2018/04/26@12:19:18.021+2300] P-5624       T-15404 I BROKER  0: (10030) Size [1K byte units] of SQL Server temp table disk storage (-SQLTempStoreDisk): 0 
+[2018/04/26@12:19:18.021+2300] P-5624       T-15404 I BROKER  0: (10031) Size [1K byte units] of SQL Server temp table data page (-SQLTempStorePageSize): 0 
+[2018/04/26@12:19:18.021+2300] P-5624       T-15404 I BROKER  0: (17955) Authorized data truncation (-SQLTruncateTooLarge): OFF 
+[2018/04/26@12:19:18.022+2300] P-5624       T-15404 I BROKER  0: (18156) SQL Autonomous Schema Update (-SQLWidthUpdate): OFF 
+[2018/04/26@12:19:18.022+2300] P-5624       T-15404 I BROKER  0: (14019) Record block consistency check (-TableCheck): Not Enabled 
+[2018/04/26@12:19:18.022+2300] P-5624       T-15404 I BROKER  0: (17717) TXE Lock retry limit (-TXERetryLimit): 0 
+[2018/04/26@12:19:18.022+2300] P-5624       T-15404 I BROKER  0: (13896) TXE Commit lock skip limit (-TXESkipLimit): 10000 
+[2018/04/26@12:19:18.022+2300] P-5624       T-15404 I BROKER  0: (10836) Database connections are not allowed at this time. 
+[2018/04/26@12:19:18.022+2300] P-5624       T-15404 I BROKER  0: (10471) Database connections have been enabled. 
+[2018/04/26@12:19:23.483+2300] P-18084      T-11144 I ABL     5: (452)   Login by htirunag on CON:. 
+[2018/04/26@12:19:23.496+2300] P-18084      T-11144 I ABL     5: (7129)  Usr 5 set name to . 
+[2018/04/26@12:19:23.589+2300] P-18084      T-11144 I ABL     5: (453)   Logout by  on CON:. 
+[2018/04/26@12:20:16.665+2300] P-17236      T-12004 I ABL     5: (452)   Login by htirunag on CON:. 
+[2018/04/26@12:20:16.675+2300] P-17236      T-12004 I ABL     5: (7129)  Usr 5 set name to . 
+[2018/04/26@12:20:16.777+2300] P-17236      T-12004 I ABL     5: (453)   Logout by  on CON:. 
+[2018/04/26@12:31:30.979+2300] P-18140      T-636   I SRV     1: (452)   Login by htirunag on CON:. 
+[2018/04/26@12:31:30.999+2300] P-18140      T-636   I SRV     1: (5646)  Started on port 3001 using TCP IPV4 address 0.0.0.0, pid 18140. 
+[2018/04/26@12:31:31.883+2300] P-18140      T-636   I SRV     1: (742)   Login usernum 24, userid htirunag client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@12:31:31.883+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@12:31:31.883+2300] P-18140      T-636   I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@12:31:31.934+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to . 
+[2018/04/26@12:31:31.939+2300] P-18140      T-636   I SRV     1: (739)   Logout usernum 24, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@12:31:32.054+2300] P-18140      T-636   I SRV     1: (742)   Login usernum 24, userid htirunag client type PASN, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@12:31:32.054+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@12:31:32.054+2300] P-18140      T-636   I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@12:31:32.099+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to . 
+[2018/04/26@12:31:32.259+2300] P-14864      T-12860 I SRV     2: (452)   Login by htirunag on CON:. 
+[2018/04/26@12:31:32.280+2300] P-14864      T-12860 I SRV     2: (5646)  Started on port 3002 using TCP IPV4 address 0.0.0.0, pid 14864. 
+[2018/04/26@12:31:33.206+2300] P-14864      T-12860 I SRV     2: (742)   Login usernum 23, userid htirunag client type PASN, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@12:31:33.206+2300] P-14864      T-12860 I SRV     2: (7129)  Usr 23 set name to htirunag. 
+[2018/04/26@12:31:33.206+2300] P-14864      T-12860 I SRV     2: (17961) User 23 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@12:31:33.262+2300] P-14864      T-12860 I SRV     2: (7129)  Usr 23 set name to . 
+[2018/04/26@12:31:45.371+2300] P-14864      T-12860 I SRV     2: (739)   Logout usernum 23, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@12:31:45.373+2300] P-18140      T-636   I SRV     1: (739)   Logout usernum 24, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@12:34:40.374+2300] P-18140      T-636   I SRV     1: (742)   Login usernum 24, userid htirunag client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@12:34:40.374+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@12:34:40.374+2300] P-18140      T-636   I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@12:34:40.424+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to . 
+[2018/04/26@12:34:40.428+2300] P-18140      T-636   I SRV     1: (739)   Logout usernum 24, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@12:34:40.547+2300] P-18140      T-636   I SRV     1: (742)   Login usernum 24, userid htirunag client type PASN, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@12:34:40.547+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@12:34:40.547+2300] P-18140      T-636   I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@12:34:40.591+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to . 
+[2018/04/26@12:34:40.666+2300] P-14864      T-12860 I SRV     2: (742)   Login usernum 23, userid htirunag client type PASN, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@12:34:40.666+2300] P-14864      T-12860 I SRV     2: (7129)  Usr 23 set name to htirunag. 
+[2018/04/26@12:34:40.666+2300] P-14864      T-12860 I SRV     2: (17961) User 23 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@12:34:40.736+2300] P-14864      T-12860 I SRV     2: (7129)  Usr 23 set name to . 
+[2018/04/26@12:38:44.119+2300] P-872        T-9340  I SRV     3: (452)   Login by htirunag on CON:. 
+[2018/04/26@12:38:44.131+2300] P-872        T-9340  I SRV     3: (5646)  Started on port 3003 using TCP IPV4 address 0.0.0.0, pid 872. 
+[2018/04/26@12:38:45.058+2300] P-872        T-9340  I SRV     3: (742)   Login usernum 22, userid htirunag client type ABL , on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 127.0.0.1. 
+[2018/04/26@12:38:45.059+2300] P-872        T-9340  I SRV     3: (7129)  Usr 22 set name to htirunag. 
+[2018/04/26@12:38:45.059+2300] P-872        T-9340  I SRV     3: (17961) User 22 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@12:38:45.096+2300] P-872        T-9340  I SRV     3: (7129)  Usr 22 set name to dbadmin. 
+[2018/04/26@12:38:45.101+2300] P-872        T-9340  I SRV     3: (739)   Logout usernum 22, userid dbadmin, on NBHYDHTIRUNAG10. 
+[2018/04/26@12:38:51.343+2300] P-18896      T-2380  I SQLSRV2 4: (-----) SQL Server 11.7.03 started, configuration: "sportsdb.virtualconfig" 
+[2018/04/26@12:38:51.361+2300] P-18896      T-2380  I SQLSRV2 4: (-----) "sportsdb" started on IPv4 port 3004 for address 0.0.0.0, pid 18896 (0x000049d0).
+[2018/04/26@12:38:51.361+2300] P-18896      T-2380  I SQLSRV2 4: (-----) Thread stack size: 1024000 (bytes).
+[2018/04/26@12:38:51.361+2300] P-18896      T-2380  I SQLSRV2 4: (-----) DLC from ENVIRONMENT VARIABLE is: C:\Kinvey\OpenEdge 
+[2018/04/26@12:38:51.361+2300] P-18896      T-2380  I SQLSRV2 4: (-----) WRKDIR from ENVIRONMENT VARIABLE is: C:\Kinvey\WRK\ 
+[2018/04/26@12:38:51.361+2300] P-18896      T-2380  I SQLSRV2 4: (-----) JDKHOME from REGISTRY is: C:\Kinvey\OpenEdge\jdk 
+[2018/04/26@12:38:51.361+2300] P-18896      T-2380  I SQLSRV2 4: (-----) JREHOME from REGISTRY is: C:\Kinvey\OpenEdge\jre 
+[2018/04/26@12:38:51.361+2300] P-18896      T-2380  I SQLSRV2 4: (-----) CLASSPATH from ENVIRONMENT VARIABLE is: .; 
+[2018/04/26@12:38:51.361+2300] P-18896      T-2380  I SQLSRV2 4: (-----) PROSQL_LOCKWAIT_TIMEOUT value is: 5 seconds
+[2018/04/26@12:38:52.188+2300] P-18896      T-15428 I SRV     4: (8873)  Login usernum 22, remote SQL client. 
+[2018/04/26@12:38:52.188+2300] P-18896      T-15428 I SRV     4: (7129)  Usr 22 set name to dbadmin. 
+[2018/04/26@12:38:52.193+2300] P-18896      T-15428 I SQLSRV2 4: (-----) Login by user 22. Using TCP/IP IPV4 address 127.0.0.1
+[2018/04/26@12:38:53.295+2300] P-18896      T-15428 I SQLSRV2 4: (-----) Logout by user 22.
+[2018/04/26@12:38:53.296+2300] P-18896      T-15428 I SRV     4: (453)   Logout by dbadmin on  . 
+[2018/04/26@12:39:01.033+2300] P-872        T-9340  I SRV     3: (742)   Login usernum 22, userid htirunag client type ABL , on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 127.0.0.1. 
+[2018/04/26@12:39:01.033+2300] P-872        T-9340  I SRV     3: (7129)  Usr 22 set name to htirunag. 
+[2018/04/26@12:39:01.033+2300] P-872        T-9340  I SRV     3: (17961) User 22 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@12:39:01.084+2300] P-872        T-9340  I SRV     3: (7129)  Usr 22 set name to dbadmin. 
+[2018/04/26@12:39:01.144+2300] P-18896      T-17220 I SRV     4: (8873)  Login usernum 21, remote SQL client. 
+[2018/04/26@12:39:01.145+2300] P-18896      T-17220 I SRV     4: (7129)  Usr 21 set name to dbadmin. 
+[2018/04/26@12:39:01.159+2300] P-18896      T-17220 I SQLSRV2 4: (-----) Login by user 21. Using TCP/IP IPV4 address 127.0.0.1
+[2018/04/26@12:39:29.449+2300] P-14864      T-12860 I SRV     2: (739)   Logout usernum 23, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@12:39:29.451+2300] P-18140      T-636   I SRV     1: (739)   Logout usernum 24, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@12:39:46.221+2300] P-18140      T-636   I SRV     1: (742)   Login usernum 24, userid SYSTEM client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@12:39:46.222+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to SYSTEM. 
+[2018/04/26@12:39:46.222+2300] P-18140      T-636   I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@12:39:46.278+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to . 
+[2018/04/26@12:39:46.284+2300] P-18140      T-636   I SRV     1: (739)   Logout usernum 24, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@12:39:46.402+2300] P-18140      T-636   I SRV     1: (742)   Login usernum 24, userid SYSTEM client type PASN, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@12:39:46.402+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to SYSTEM. 
+[2018/04/26@12:39:46.402+2300] P-18140      T-636   I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@12:39:46.449+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to . 
+[2018/04/26@12:39:46.617+2300] P-14864      T-12860 I SRV     2: (742)   Login usernum 23, userid SYSTEM client type PASN, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@12:39:46.617+2300] P-14864      T-12860 I SRV     2: (7129)  Usr 23 set name to SYSTEM. 
+[2018/04/26@12:39:46.617+2300] P-14864      T-12860 I SRV     2: (17961) User 23 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@12:39:46.705+2300] P-14864      T-12860 I SRV     2: (7129)  Usr 23 set name to . 
+[2018/04/26@12:41:32.657+2300] P-14864      T-12860 I SRV     2: (739)   Logout usernum 23, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@12:41:32.770+2300] P-18140      T-636   I SRV     1: (739)   Logout usernum 24, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@12:42:02.055+2300] P-18140      T-636   I SRV     1: (742)   Login usernum 24, userid SYSTEM client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@12:42:02.056+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to SYSTEM. 
+[2018/04/26@12:42:02.056+2300] P-18140      T-636   I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@12:42:02.115+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to . 
+[2018/04/26@12:42:02.129+2300] P-18140      T-636   I SRV     1: (739)   Logout usernum 24, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@12:50:05.304+2300] P-18140      T-636   I SRV     1: (742)   Login usernum 24, userid SYSTEM client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@12:50:05.304+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to SYSTEM. 
+[2018/04/26@12:50:05.304+2300] P-18140      T-636   I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@12:50:05.347+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to . 
+[2018/04/26@12:50:05.361+2300] P-18140      T-636   I SRV     1: (739)   Logout usernum 24, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@12:51:17.671+2300] P-18140      T-636   I SRV     1: (742)   Login usernum 24, userid htirunag client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@12:51:17.672+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@12:51:17.672+2300] P-18140      T-636   I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@12:51:17.718+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to . 
+[2018/04/26@12:51:17.731+2300] P-18140      T-636   I SRV     1: (739)   Logout usernum 24, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@12:51:19.973+2300] P-18140      T-636   I SRV     1: (742)   Login usernum 24, userid htirunag client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@12:51:19.973+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@12:51:19.973+2300] P-18140      T-636   I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@12:51:20.019+2300] P-18140      T-636   I SRV     1: (7129)  Usr 24 set name to . 
+[2018/04/26@12:51:20.031+2300] P-18140      T-636   I SRV     1: (739)   Logout usernum 24, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@12:53:36.050+2300] P-15788      T-6952  I SHUT    5: (452)   Login by htirunag on CON:. 
+[2018/04/26@12:53:37.906+2300] P-15788      T-6952  I SHUT    5: (542)   Server shutdown started by htirunag on CON:. 
+[2018/04/26@12:53:37.937+2300] P-14864      T-12860 I SRV     2: (2520)  Stopped. 
+[2018/04/26@12:53:37.958+2300] P-872        T-9340  I SRV     3: (739)   Logout usernum 22, userid dbadmin, on NBHYDHTIRUNAG10. 
+[2018/04/26@12:53:37.959+2300] P-872        T-9340  I SRV     3: (2520)  Stopped. 
+[2018/04/26@12:53:37.986+2300] P-18140      T-636   I SRV     1: (2520)  Stopped. 
+[2018/04/26@12:53:38.057+2300] P-5624       T-15404 I BROKER  0: (15193) The normal shutdown of the database will continue for 10 Min 0 Sec if required. 
+[2018/04/26@12:53:38.057+2300] P-5624       T-15404 I BROKER  0: (2248)  Begin normal shutdown 
+[2018/04/26@12:53:39.058+2300] P-5624       T-15404 I BROKER  0: (2263)  Resending shutdown request to 1 user(s). 
+[2018/04/26@12:53:41.940+2300] P-18896      T-17220 I SQLREMC 21: (-----) Disconnected due to shutdown of primary database: C:\Kinvey\Developer Studio 4.5.2\workspace\Sports2000\PASOEContent\WEB-INF\openedge\db\sportsdb
+[2018/04/26@12:53:41.940+2300] P-18896      T-17220 I SRV     4: (453)   Logout by dbadmin on  . 
+[2018/04/26@12:53:47.129+2300] P-5624       T-15404 I BROKER  0: (15109) At Database close the number of live transactions is 0. 
+[2018/04/26@12:53:47.130+2300] P-5624       T-15404 I BROKER  0: (15743) Before Image Log Completion at Block 3 Offset 6889. 
+[2018/04/26@12:53:47.132+2300] P-5624       T-15404 I BROKER  0: (453)   Logout by htirunag on CON:. 
+[2018/04/26@12:53:47.139+2300] P-5624       T-15404 I BROKER   : (16869) Removed shared memory with segment_id: 2384093577216 
+[2018/04/26@12:53:47.139+2300] P-5624       T-15404 I BROKER   : (334)   Multi-user session end. 
+[2018/04/26@12:53:47.915+2300] P-15788      T-6952  I SHUT    5: (453)   Logout by htirunag on CON:. 
+
+                Thu Apr 26 12:53:58 2018
+[2018/04/26@12:53:58.009+2300] P-18972      T-18952 I BROKER  0: (333)   Multi-user session begin. 
+[2018/04/26@12:53:58.010+2300] P-18972      T-18952 I BROKER  0: (15321) Before Image Log Initialization at block 3  offset 6889. 
+[2018/04/26@12:53:58.012+2300] P-18972      T-18952 I BROKER  0: (452)   Login by htirunag on CON:. 
+[2018/04/26@12:53:58.020+2300] P-18972      T-18952 I BROKER  0: (5644)  Started for 7821 using TCP IPV4 address 0.0.0.0, pid 18972. 
+[2018/04/26@12:53:58.020+2300] P-18972      T-18952 I BROKER  0: (-----) This installation is licensed to: Progress by C:\Kinvey\OpenEdge\progress.cfg.
+[2018/04/26@12:53:58.020+2300] P-18972      T-18952 I BROKER  0: (-----) Product: Progress Dev Studio OE installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:53:58.020+2300] P-18972      T-18952 I BROKER  0: (-----) Product: OE Personal RDBMS installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:53:58.020+2300] P-18972      T-18952 I BROKER  0: (-----) Product: Query/RESULTS installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:53:58.020+2300] P-18972      T-18952 I BROKER  0: (-----) Product: OE Studio installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:53:58.020+2300] P-18972      T-18952 I BROKER  0: (-----) Product: OE Adv. Ent. RDBMS installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:53:58.020+2300] P-18972      T-18952 I BROKER  0: (-----) Product: OE Application Svr Ent installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:53:58.020+2300] P-18972      T-18952 I BROKER  0: (-----) Product: OE Development Server installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:53:58.020+2300] P-18972      T-18952 I BROKER  0: (-----) Product: KendoUI Builder-KUIB installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (-----) Product: KendoUI Builder installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (-----) Product: OE SQL Client Access installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (-----) Product: Progress Dev AS for OE installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (4234)  Progress OpenEdge Release 11.7 build 1585 SP03 on WINNT . 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (4281)  Server started by htirunag on CON:. 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (6574)  Started using pid: 18972. 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (15219) Encryption enabled: 0 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (15824) Multi-tenancy enabled: 0 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (15824) Table Partitioning enabled: 0 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (15824) Authentication Gateway enabled: 0 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (-----) LRU mechanism enabled.
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (4282)  Parameter File: Not Enabled. 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (9336)  Created shared memory with segment_id: 1 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (4250)  Before-Image Cluster Size: 524288. 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (4251)  Before-Image Block Size: 8192. 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (13873) After-image Management Archival Directory List (-aiarcdir): Not Enabled 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (13874) Create After-image Management Archival Directory(s) (-aiarcdircreate): Not Enabled 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (13872) After-image Management Archival Interval (-aiarcinterval): -1 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (4256)  Number of After-Image Buffers (-aibufs): 20 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (4254)  After-Image Stall (-aistall): Not Enabled 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (17555) Starting index number for statistics range (-baseindex): 1 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (17554) Starting table number for statistics range (-basetable): 1 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (18406) Starting index number per user for statistics range (-baseuserindex): 1 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (18404) Starting table number per user for statistics range (-baseusertable): 1 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (4252)  Number of Before-Image Buffers (-bibufs): 20 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (6552)  BI File Threshold Stall (-bistall): Disabled. 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (9238)  BI File Threshold size (-bithold): 0.0   Bytes 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (6573)  Database Blocksize (-blocksize): 4096 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (12812) BIW writer delay (-bwdelay): 0 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (12813) Allowed index cursors (-c): 84 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (18495) CDC cache size (-cdcsize): 200k bytes 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (12265) SSL Certificate Store Path (-certstorepath): Not Enabled 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (4264)  Character Set (-cpinternal): ISO8859-1 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (4235)  Physical Database Name (-db): C:\Kinvey\Developer Studio 4.5.2\workspace\Sports2000\PASOEContent\WEB-INF\openedge\db\sportsdb 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (18558) Diagnostic directory (-diagDir): Not Enabled 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (18576) Diagnostic events value (-diagEvent): LockTable:0,BiThold:0,SysErr:0 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (18560) Diagnostic event level (-diagEvtLevel): 0 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (18561) Diagnostic field separator (-diagFS): ' ' 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (18579) Diagnostic data format (-diagFormat): csv 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (18562) Diagnostic pause length (-diagPause): 0 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (18563) Diagnostic prefix value (-diagPrefix): diagEvent_ 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (4238)  Direct I/O (-directio): Not Enabled 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (4236)  Database Type (-dt): PROGRESS 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (15218) Encryption cache size (-ecsize): 1000 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (12814) Group delay (-groupdelay): 10 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (4242)  Hash Table Entries (-hash): 887 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (-----) Buffer pool hash table latch percentage (-hashLatchFactor): 10 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (4244)  Crash Recovery (-i): Enabled 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (17557) Number of indexes included in statistics collection (-indexrangesize): 50 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (14268) TCP/IP Version (-ipver): IPV4 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (12263) SSL Key Alias Name (-keyalias): Not Enabled 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (-----) Database log file archive directory (-lgArchiveDir): Not Enabled 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (-----) Archive database log file before truncation (-lgArchiveEnable): Not Enabled 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (-----) Frequency of database log file truncation (-lgTruncateFrequency): -1 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (-----) The maximum size the database log file can grow before truncation (-lgTruncateSize): 0MB 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (-----) Time of day for the database log file truncation (-lgTruncateTime): 00:00 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (-----) Limit .lg file payload (-limitLgPayload): Not Enabled
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (12815) Lock table hash table size (-lkhash): 1237 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (17805) Original Lock Release Algorithm (-lkrela): Not Enabled 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (17560) Number of LRU force skips (-lruskips): 0 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (17561) Number of LRU2 force skips (-lru2skips): 0 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (13953) Maximum Area Number (-maxArea): 32000 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (12540) Size of JTA transaction table (-maxxids):  100 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (5649)  Maximum Port for Auto Servers (-maxport): 5000 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (5648)  Minimum Port for Auto Servers (-minport): 3000 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (17564) Multi-tenancy partition cache size (-mtpmsize): 1024 
+[2018/04/26@12:53:58.021+2300] P-18972      T-18952 I BROKER  0: (12821) Use muxlatches (-mux): 1 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (4260)  Maximum Number of Users (-n): 21 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (17566) Minimum time to nap at first -spin exhaustion (-nap): 10 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (17565) Maximum time to nap at -spin exhaustion (-napmax): 250 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (18522) SSL No Host Verify (-nohostverify): Not Enabled 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (17807) Disable LRU mechanism (-nolru): Not Enabled 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (12273) SSL No Session Cache (-nosessioncache): Not Enabled 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (18521) SSL No Session Reuse (-nosessionreuse): Not Enabled 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (16689) Login Governor (-nGovernor): 0 of 21 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (18398) Number of checkpoint statistics to record (-numCheckpointStats): 32 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (-----) Omit .lg file messages (-omitLgMsgs): 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (8527)  Storage object cache size (-omsize): 1024 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (13870) Database Service Manager - IPC Queue Size (-pica): 64.0  KBytes 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (17802) Shared memory segments locked (-pinshm): Not Enabled 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (16953) Use pollset mechanism for client/server (-pollset): Not Enabled 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (16955) Delay first prefetch message (-prefetchDelay): Not Enabled 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (16956) Prefetch message fill percentage (-prefetchFactor): 0 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (16957) Minimum records in prefetch msg (-prefetchNumRecs): 16 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (16958) Suspension queue poll priority (-prefetchPriority): 0 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (17568) APW queue scan cycle time in milliseconds (-pwqdelay): 100 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (17569) APW minimum queue length before write (-pwqmin): 1 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (17570) APW buffer scan cycle time in seconds (-pwsdelay): 1 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (17571) APW maximum number of buffers to scan per cycle (-pwscan): 5 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (17572) APW maximum number of buffers to write per cycle (-pwwmax): 25 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (4247)  Before-Image File I/O (-r -R): Reliable 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (17563) Record free chain search depth factor (-recspacesearchdepth): 5 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (18478) Security cache size (-secsize): 512 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (6526)  Number of Semaphore Sets (-semsets): 3 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (12264) SSL Session Timeout (-sessiontimeout): 0 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (13924) Maximum Shared Memory Segment Size (-shmsegsize): 1024 Mb 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (4243)  Current Spin Lock Tries (-spin): 24000 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (17803) SSL Encryption for TCP/IP connections (-ssl): Not Enabled 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (18525) STS Debug Logging Level default (-stslogginglevel): 0 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (17556) Number of tables included in statistics collection (-tablerangesize): 50 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (18118) User Notification Time (-usernotifytime): 0 seconds 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (18407) Number of indexes per user included in statistics collection (-userindexrangesize): 50 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (18405) Number of tables per user included in statistics collection (-usertablerangesize): 50 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (14017) Area block consistency check (-AreaCheck): Not Enabled 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (4239)  Number of Database Buffers (-B): 3000 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (17562) Number of Alternate Database Buffers (-B2): 0 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (9422)  Maximum private buffers per user (-Bpmax): 64 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (14016) Database block consistency check (-DbCheck): Not Enabled 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (13869) Database Service Manager - Service(s) to start (-DBService): Not Enabled 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (10535) Enhanced Read-Only mode (-ERO): Not Enabled 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (4237)  Force Access (-F): Not Enabled 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (4249)  Before-Image Truncate Interval (-G): 0 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (4261)  Host Name (-H): NBHYDHTIRUNAG10 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (14018) Index block consistency check (-IndexCheck): Not Enabled 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (4241)  Current Size of Lock Table (-L): 8192 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (16688) Lock Governor (-LGovernor): 0% 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (4257)  Maximum Number of Clients Per Server (-Ma): 5 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (14016) Memory overwrite check (-MemCheck): Not Enabled 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (4245)  Delay of Before-Image Flush (-Mf): 3 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (4259)  Minimum Clients Per Server (-Mi): 1 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (12818) Message Buffer Size (-Mm): 1024 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (4258)  Maximum Number of Servers (-Mn): 5 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (12819) Servers per Protocol (-Mp): 0 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (5647)  Maximum Servers Per Broker (-Mpb): 0 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (4240)  Excess Shared Memory Size (-Mxs): 23 
+[2018/04/26@12:53:58.022+2300] P-18972      T-18952 I BROKER  0: (4263)  Network Type (-N): TCP 
+[2018/04/26@12:53:58.023+2300] P-18972      T-18952 I BROKER  0: (16954) Server network message wait time (-Nmsgwait): 2 
+[2018/04/26@12:53:58.023+2300] P-18972      T-18952 I BROKER  0: (10357) Pending client connection timeout (-PendConnTimeout): 0 
+[2018/04/26@12:53:58.023+2300] P-18972      T-18952 I BROKER  0: (4262)  Service Name (-S): 7821 
+[2018/04/26@12:53:58.023+2300] P-18972      T-18952 I BROKER  0: (17804) Broker server group support (-ServerType): BOTH 
+[2018/04/26@12:53:58.023+2300] P-18972      T-18952 I BROKER  0: (10028) SQL Server Max Open Cursors (-SQLCursors): 0 
+[2018/04/26@12:53:58.023+2300] P-18972      T-18952 I BROKER  0: (10026) SQL Server Stack Size (-SQLStack): 0 
+[2018/04/26@12:53:58.023+2300] P-18972      T-18952 I BROKER  0: (10027) SQL Server Statement Cache Size (-SQLStmtCache): 0 
+[2018/04/26@12:53:58.023+2300] P-18972      T-18952 I BROKER  0: (10029) Size [1K byte units] of SQL Server temp table buffer (-SQLTempStoreBuff): 0 
+[2018/04/26@12:53:58.023+2300] P-18972      T-18952 I BROKER  0: (10030) Size [1K byte units] of SQL Server temp table disk storage (-SQLTempStoreDisk): 0 
+[2018/04/26@12:53:58.023+2300] P-18972      T-18952 I BROKER  0: (10031) Size [1K byte units] of SQL Server temp table data page (-SQLTempStorePageSize): 0 
+[2018/04/26@12:53:58.023+2300] P-18972      T-18952 I BROKER  0: (17955) Authorized data truncation (-SQLTruncateTooLarge): OFF 
+[2018/04/26@12:53:58.023+2300] P-18972      T-18952 I BROKER  0: (18156) SQL Autonomous Schema Update (-SQLWidthUpdate): OFF 
+[2018/04/26@12:53:58.023+2300] P-18972      T-18952 I BROKER  0: (14019) Record block consistency check (-TableCheck): Not Enabled 
+[2018/04/26@12:53:58.023+2300] P-18972      T-18952 I BROKER  0: (17717) TXE Lock retry limit (-TXERetryLimit): 0 
+[2018/04/26@12:53:58.023+2300] P-18972      T-18952 I BROKER  0: (13896) TXE Commit lock skip limit (-TXESkipLimit): 10000 
+[2018/04/26@12:53:58.023+2300] P-18972      T-18952 I BROKER  0: (10836) Database connections are not allowed at this time. 
+[2018/04/26@12:53:58.023+2300] P-18972      T-18952 I BROKER  0: (10471) Database connections have been enabled. 
+[2018/04/26@12:54:47.956+2300] P-16188      T-15208 I SRV     1: (452)   Login by htirunag on CON:. 
+[2018/04/26@12:54:47.971+2300] P-16188      T-15208 I SRV     1: (5646)  Started on port 3001 using TCP IPV4 address 0.0.0.0, pid 16188. 
+[2018/04/26@12:54:48.903+2300] P-16188      T-15208 I SRV     1: (742)   Login usernum 24, userid htirunag client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@12:54:48.903+2300] P-16188      T-15208 I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@12:54:48.903+2300] P-16188      T-15208 I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@12:54:48.960+2300] P-16188      T-15208 I SRV     1: (7129)  Usr 24 set name to . 
+[2018/04/26@12:54:48.965+2300] P-16188      T-15208 I SRV     1: (739)   Logout usernum 24, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@12:54:49.079+2300] P-16188      T-15208 I SRV     1: (742)   Login usernum 24, userid htirunag client type PASN, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@12:54:49.080+2300] P-16188      T-15208 I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@12:54:49.080+2300] P-16188      T-15208 I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@12:54:49.126+2300] P-16188      T-15208 I SRV     1: (7129)  Usr 24 set name to . 
+[2018/04/26@12:54:49.269+2300] P-4400       T-7208  I SRV     2: (452)   Login by htirunag on CON:. 
+[2018/04/26@12:54:49.292+2300] P-4400       T-7208  I SRV     2: (5646)  Started on port 3002 using TCP IPV4 address 0.0.0.0, pid 4400. 
+[2018/04/26@12:54:50.212+2300] P-4400       T-7208  I SRV     2: (742)   Login usernum 23, userid htirunag client type PASN, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@12:54:50.212+2300] P-4400       T-7208  I SRV     2: (7129)  Usr 23 set name to htirunag. 
+[2018/04/26@12:54:50.212+2300] P-4400       T-7208  I SRV     2: (17961) User 23 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@12:54:50.259+2300] P-4400       T-7208  I SRV     2: (7129)  Usr 23 set name to . 
+[2018/04/26@12:56:49.396+2300] P-4400       T-7208  I SRV     2: (739)   Logout usernum 23, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@12:56:49.398+2300] P-16188      T-15208 I SRV     1: (739)   Logout usernum 24, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@13:00:36.928+2300] P-16188      T-15208 I SRV     1: (742)   Login usernum 24, userid htirunag client type ABL , on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 127.0.0.1. 
+[2018/04/26@13:00:36.929+2300] P-16188      T-15208 I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@13:00:36.929+2300] P-16188      T-15208 I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:00:36.968+2300] P-16188      T-15208 I SRV     1: (7129)  Usr 24 set name to dbadmin. 
+[2018/04/26@13:00:36.973+2300] P-16188      T-15208 I SRV     1: (739)   Logout usernum 24, userid dbadmin, on NBHYDHTIRUNAG10. 
+[2018/04/26@13:00:48.755+2300] P-16188      T-15208 I SRV     1: (742)   Login usernum 24, userid htirunag client type ABL , on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 127.0.0.1. 
+[2018/04/26@13:00:48.755+2300] P-16188      T-15208 I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@13:00:48.755+2300] P-16188      T-15208 I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:00:48.787+2300] P-16188      T-15208 I SRV     1: (7129)  Usr 24 set name to dbadmin. 
+[2018/04/26@13:01:44.929+2300] P-4400       T-7208  I SRV     2: (742)   Login usernum 23, userid htirunag client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@13:01:44.930+2300] P-4400       T-7208  I SRV     2: (7129)  Usr 23 set name to htirunag. 
+[2018/04/26@13:01:44.930+2300] P-4400       T-7208  I SRV     2: (17961) User 23 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:01:44.988+2300] P-4400       T-7208  I SRV     2: (7129)  Usr 23 set name to . 
+[2018/04/26@13:01:44.991+2300] P-4400       T-7208  I SRV     2: (739)   Logout usernum 23, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@13:01:45.107+2300] P-4400       T-7208  I SRV     2: (742)   Login usernum 23, userid htirunag client type PASN, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@13:01:45.107+2300] P-4400       T-7208  I SRV     2: (7129)  Usr 23 set name to htirunag. 
+[2018/04/26@13:01:45.108+2300] P-4400       T-7208  I SRV     2: (17961) User 23 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:01:45.172+2300] P-4400       T-7208  I SRV     2: (7129)  Usr 23 set name to . 
+[2018/04/26@13:01:45.320+2300] P-18728      T-13976 I SRV     3: (452)   Login by htirunag on CON:. 
+[2018/04/26@13:01:45.338+2300] P-18728      T-13976 I SRV     3: (5646)  Started on port 3003 using TCP IPV4 address 0.0.0.0, pid 18728. 
+[2018/04/26@13:01:46.269+2300] P-18728      T-13976 I SRV     3: (742)   Login usernum 22, userid htirunag client type PASN, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@13:01:46.269+2300] P-18728      T-13976 I SRV     3: (7129)  Usr 22 set name to htirunag. 
+[2018/04/26@13:01:46.269+2300] P-18728      T-13976 I SRV     3: (17961) User 22 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:01:46.309+2300] P-18728      T-13976 I SRV     3: (7129)  Usr 22 set name to . 
+[2018/04/26@13:03:50.922+2300] P-18728      T-13976 I SRV     3: (739)   Logout usernum 22, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@13:03:50.923+2300] P-4400       T-7208  I SRV     2: (739)   Logout usernum 23, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@13:04:22.729+2300] P-4748       T-18864 I SQLSRV2 4: (-----) SQL Server 11.7.03 started, configuration: "sportsdb.virtualconfig" 
+[2018/04/26@13:04:22.737+2300] P-4748       T-18864 I SQLSRV2 4: (-----) "C:\Kinvey\Developer Studio 4.5.2\workspace\Sports2000\PASOEContent\WEB-INF\openedge\db\sportsdb" started on IPv4 port 3004 for address 0.0.0.0, pid 4748 (0x0000128c).
+[2018/04/26@13:04:22.737+2300] P-4748       T-18864 I SQLSRV2 4: (-----) Thread stack size: 1024000 (bytes).
+[2018/04/26@13:04:22.737+2300] P-4748       T-18864 I SQLSRV2 4: (-----) DLC from ENVIRONMENT VARIABLE is: C:\Kinvey\OpenEdge 
+[2018/04/26@13:04:22.737+2300] P-4748       T-18864 I SQLSRV2 4: (-----) WRKDIR from ENVIRONMENT VARIABLE is: C:\Kinvey\WRK\ 
+[2018/04/26@13:04:22.737+2300] P-4748       T-18864 I SQLSRV2 4: (-----) JDKHOME from REGISTRY is: C:\Kinvey\OpenEdge\jdk 
+[2018/04/26@13:04:22.738+2300] P-4748       T-18864 I SQLSRV2 4: (-----) JREHOME from REGISTRY is: C:\Kinvey\OpenEdge\jre 
+[2018/04/26@13:04:22.738+2300] P-4748       T-18864 I SQLSRV2 4: (-----) CLASSPATH from ENVIRONMENT VARIABLE is: .; 
+[2018/04/26@13:04:22.738+2300] P-4748       T-18864 I SQLSRV2 4: (-----) PROSQL_LOCKWAIT_TIMEOUT value is: 5 seconds
+[2018/04/26@13:04:23.600+2300] P-4748       T-1556  I SRV     4: (8873)  Login usernum 23, remote SQL client. 
+[2018/04/26@13:04:23.602+2300] P-4748       T-1556  I SRV     4: (7129)  Usr 23 set name to dbadmin. 
+[2018/04/26@13:04:23.609+2300] P-4748       T-1556  I SQLSRV2 4: (-----) Login by user 23. Using TCP/IP IPV4 address 127.0.0.1
+[2018/04/26@13:04:24.628+2300] P-4748       T-1556  I SQLSRV2 4: (-----) Logout by user 23.
+[2018/04/26@13:04:24.628+2300] P-4748       T-1556  I SRV     4: (453)   Logout by dbadmin on  . 
+[2018/04/26@13:08:36.131+2300] P-4400       T-7208  I SRV     2: (742)   Login usernum 23, userid SYSTEM client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@13:08:36.131+2300] P-4400       T-7208  I SRV     2: (7129)  Usr 23 set name to SYSTEM. 
+[2018/04/26@13:08:36.131+2300] P-4400       T-7208  I SRV     2: (17961) User 23 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:08:36.173+2300] P-4400       T-7208  I SRV     2: (7129)  Usr 23 set name to . 
+[2018/04/26@13:08:36.185+2300] P-4400       T-7208  I SRV     2: (739)   Logout usernum 23, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@13:08:38.458+2300] P-4400       T-7208  I SRV     2: (742)   Login usernum 23, userid SYSTEM client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@13:08:38.458+2300] P-4400       T-7208  I SRV     2: (7129)  Usr 23 set name to SYSTEM. 
+[2018/04/26@13:08:38.458+2300] P-4400       T-7208  I SRV     2: (17961) User 23 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:08:38.506+2300] P-4400       T-7208  I SRV     2: (7129)  Usr 23 set name to . 
+[2018/04/26@13:08:38.519+2300] P-4400       T-7208  I SRV     2: (739)   Logout usernum 23, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@13:09:05.687+2300] P-4400       T-7208  I SRV     2: (742)   Login usernum 23, userid htirunag client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@13:09:05.687+2300] P-4400       T-7208  I SRV     2: (7129)  Usr 23 set name to htirunag. 
+[2018/04/26@13:09:05.687+2300] P-4400       T-7208  I SRV     2: (17961) User 23 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:09:05.733+2300] P-4400       T-7208  I SRV     2: (7129)  Usr 23 set name to . 
+[2018/04/26@13:09:05.746+2300] P-4400       T-7208  I SRV     2: (739)   Logout usernum 23, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@13:09:08.015+2300] P-4400       T-7208  I SRV     2: (742)   Login usernum 23, userid htirunag client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@13:09:08.016+2300] P-4400       T-7208  I SRV     2: (7129)  Usr 23 set name to htirunag. 
+[2018/04/26@13:09:08.016+2300] P-4400       T-7208  I SRV     2: (17961) User 23 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:09:08.049+2300] P-4400       T-7208  I SRV     2: (7129)  Usr 23 set name to . 
+[2018/04/26@13:09:08.063+2300] P-4400       T-7208  I SRV     2: (739)   Logout usernum 23, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@13:13:39.078+2300] P-4400       T-7208  I SRV     2: (742)   Login usernum 23, userid htirunag client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@13:13:39.078+2300] P-4400       T-7208  I SRV     2: (7129)  Usr 23 set name to htirunag. 
+[2018/04/26@13:13:39.078+2300] P-4400       T-7208  I SRV     2: (17961) User 23 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:13:39.156+2300] P-4400       T-7208  I SRV     2: (7129)  Usr 23 set name to . 
+[2018/04/26@13:13:39.171+2300] P-4400       T-7208  I SRV     2: (739)   Logout usernum 23, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@13:13:41.457+2300] P-4400       T-7208  I SRV     2: (742)   Login usernum 23, userid htirunag client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@13:13:41.457+2300] P-4400       T-7208  I SRV     2: (7129)  Usr 23 set name to htirunag. 
+[2018/04/26@13:13:41.457+2300] P-4400       T-7208  I SRV     2: (17961) User 23 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:13:41.499+2300] P-4400       T-7208  I SRV     2: (7129)  Usr 23 set name to . 
+[2018/04/26@13:13:41.512+2300] P-4400       T-7208  I SRV     2: (739)   Logout usernum 23, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@13:14:01.763+2300] P-9672       T-19364 I SHUT    5: (452)   Login by htirunag on CON:. 
+[2018/04/26@13:14:03.610+2300] P-9672       T-19364 I SHUT    5: (542)   Server shutdown started by htirunag on CON:. 
+[2018/04/26@13:14:03.656+2300] P-16188      T-15208 I SRV     1: (739)   Logout usernum 24, userid dbadmin, on NBHYDHTIRUNAG10. 
+[2018/04/26@13:14:03.658+2300] P-16188      T-15208 I SRV     1: (2520)  Stopped. 
+[2018/04/26@13:14:03.733+2300] P-18972      T-18952 I BROKER  0: (15193) The normal shutdown of the database will continue for 10 Min 0 Sec if required. 
+[2018/04/26@13:14:03.733+2300] P-18972      T-18952 I BROKER  0: (2248)  Begin normal shutdown 
+[2018/04/26@13:14:03.736+2300] P-18728      T-13976 I SRV     3: (2520)  Stopped. 
+[2018/04/26@13:14:03.771+2300] P-4400       T-7208  I SRV     2: (2520)  Stopped. 
+[2018/04/26@13:14:04.736+2300] P-18972      T-18952 I BROKER  0: (2263)  Resending shutdown request to 0 user(s). 
+[2018/04/26@13:14:08.789+2300] P-18972      T-18952 I BROKER  0: (15109) At Database close the number of live transactions is 0. 
+[2018/04/26@13:14:08.790+2300] P-18972      T-18952 I BROKER  0: (15743) Before Image Log Completion at Block 3 Offset 6949. 
+[2018/04/26@13:14:08.790+2300] P-18972      T-18952 I BROKER  0: (453)   Logout by htirunag on CON:. 
+[2018/04/26@13:14:08.797+2300] P-18972      T-18952 I BROKER   : (16869) Removed shared memory with segment_id: 2652657090560 
+[2018/04/26@13:14:08.797+2300] P-18972      T-18952 I BROKER   : (334)   Multi-user session end. 
+[2018/04/26@13:14:09.616+2300] P-9672       T-19364 I SHUT    5: (453)   Logout by htirunag on CON:. 
+
+                Thu Apr 26 13:14:12 2018
+[2018/04/26@13:14:12.455+2300] P-16820      T-11748 I BROKER  0: (333)   Multi-user session begin. 
+[2018/04/26@13:14:12.455+2300] P-16820      T-11748 I BROKER  0: (15321) Before Image Log Initialization at block 3  offset 6949. 
+[2018/04/26@13:14:12.458+2300] P-16820      T-11748 I BROKER  0: (452)   Login by htirunag on CON:. 
+[2018/04/26@13:14:12.465+2300] P-16820      T-11748 I BROKER  0: (5644)  Started for 7821 using TCP IPV4 address 0.0.0.0, pid 16820. 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (-----) This installation is licensed to: Progress by C:\Kinvey\OpenEdge\progress.cfg.
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (-----) Product: Progress Dev Studio OE installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (-----) Product: OE Personal RDBMS installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (-----) Product: Query/RESULTS installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (-----) Product: OE Studio installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (-----) Product: OE Adv. Ent. RDBMS installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (-----) Product: OE Application Svr Ent installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (-----) Product: OE Development Server installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (-----) Product: KendoUI Builder-KUIB installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (-----) Product: KendoUI Builder installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (-----) Product: OE SQL Client Access installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (-----) Product: Progress Dev AS for OE installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (4234)  Progress OpenEdge Release 11.7 build 1585 SP03 on WINNT . 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (4281)  Server started by htirunag on CON:. 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (6574)  Started using pid: 16820. 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (15219) Encryption enabled: 0 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (15824) Multi-tenancy enabled: 0 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (15824) Table Partitioning enabled: 0 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (15824) Authentication Gateway enabled: 0 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (-----) LRU mechanism enabled.
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (4282)  Parameter File: Not Enabled. 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (9336)  Created shared memory with segment_id: 1 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (4250)  Before-Image Cluster Size: 524288. 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (4251)  Before-Image Block Size: 8192. 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (13873) After-image Management Archival Directory List (-aiarcdir): Not Enabled 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (13874) Create After-image Management Archival Directory(s) (-aiarcdircreate): Not Enabled 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (13872) After-image Management Archival Interval (-aiarcinterval): -1 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (4256)  Number of After-Image Buffers (-aibufs): 20 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (4254)  After-Image Stall (-aistall): Not Enabled 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (17555) Starting index number for statistics range (-baseindex): 1 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (17554) Starting table number for statistics range (-basetable): 1 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (18406) Starting index number per user for statistics range (-baseuserindex): 1 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (18404) Starting table number per user for statistics range (-baseusertable): 1 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (4252)  Number of Before-Image Buffers (-bibufs): 20 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (6552)  BI File Threshold Stall (-bistall): Disabled. 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (9238)  BI File Threshold size (-bithold): 0.0   Bytes 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (6573)  Database Blocksize (-blocksize): 4096 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (12812) BIW writer delay (-bwdelay): 0 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (12813) Allowed index cursors (-c): 84 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (18495) CDC cache size (-cdcsize): 200k bytes 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (12265) SSL Certificate Store Path (-certstorepath): Not Enabled 
+[2018/04/26@13:14:12.466+2300] P-16820      T-11748 I BROKER  0: (4264)  Character Set (-cpinternal): ISO8859-1 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (4235)  Physical Database Name (-db): C:\Kinvey\Developer Studio 4.5.2\workspace\Sports2000\PASOEContent\WEB-INF\openedge\db\sportsdb 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (18558) Diagnostic directory (-diagDir): Not Enabled 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (18576) Diagnostic events value (-diagEvent): LockTable:0,BiThold:0,SysErr:0 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (18560) Diagnostic event level (-diagEvtLevel): 0 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (18561) Diagnostic field separator (-diagFS): ' ' 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (18579) Diagnostic data format (-diagFormat): csv 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (18562) Diagnostic pause length (-diagPause): 0 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (18563) Diagnostic prefix value (-diagPrefix): diagEvent_ 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (4238)  Direct I/O (-directio): Not Enabled 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (4236)  Database Type (-dt): PROGRESS 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (15218) Encryption cache size (-ecsize): 1000 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (12814) Group delay (-groupdelay): 10 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (4242)  Hash Table Entries (-hash): 887 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (-----) Buffer pool hash table latch percentage (-hashLatchFactor): 10 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (4244)  Crash Recovery (-i): Enabled 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (17557) Number of indexes included in statistics collection (-indexrangesize): 50 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (14268) TCP/IP Version (-ipver): IPV4 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (12263) SSL Key Alias Name (-keyalias): Not Enabled 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (-----) Database log file archive directory (-lgArchiveDir): Not Enabled 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (-----) Archive database log file before truncation (-lgArchiveEnable): Not Enabled 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (-----) Frequency of database log file truncation (-lgTruncateFrequency): -1 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (-----) The maximum size the database log file can grow before truncation (-lgTruncateSize): 0MB 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (-----) Time of day for the database log file truncation (-lgTruncateTime): 00:00 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (-----) Limit .lg file payload (-limitLgPayload): Not Enabled
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (12815) Lock table hash table size (-lkhash): 1237 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (17805) Original Lock Release Algorithm (-lkrela): Not Enabled 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (17560) Number of LRU force skips (-lruskips): 0 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (17561) Number of LRU2 force skips (-lru2skips): 0 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (13953) Maximum Area Number (-maxArea): 32000 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (12540) Size of JTA transaction table (-maxxids):  100 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (5649)  Maximum Port for Auto Servers (-maxport): 5000 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (5648)  Minimum Port for Auto Servers (-minport): 3000 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (17564) Multi-tenancy partition cache size (-mtpmsize): 1024 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (12821) Use muxlatches (-mux): 1 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (4260)  Maximum Number of Users (-n): 21 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (17566) Minimum time to nap at first -spin exhaustion (-nap): 10 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (17565) Maximum time to nap at -spin exhaustion (-napmax): 250 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (18522) SSL No Host Verify (-nohostverify): Not Enabled 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (17807) Disable LRU mechanism (-nolru): Not Enabled 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (12273) SSL No Session Cache (-nosessioncache): Not Enabled 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (18521) SSL No Session Reuse (-nosessionreuse): Not Enabled 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (16689) Login Governor (-nGovernor): 0 of 21 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (18398) Number of checkpoint statistics to record (-numCheckpointStats): 32 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (-----) Omit .lg file messages (-omitLgMsgs): 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (8527)  Storage object cache size (-omsize): 1024 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (13870) Database Service Manager - IPC Queue Size (-pica): 64.0  KBytes 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (17802) Shared memory segments locked (-pinshm): Not Enabled 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (16953) Use pollset mechanism for client/server (-pollset): Not Enabled 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (16955) Delay first prefetch message (-prefetchDelay): Not Enabled 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (16956) Prefetch message fill percentage (-prefetchFactor): 0 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (16957) Minimum records in prefetch msg (-prefetchNumRecs): 16 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (16958) Suspension queue poll priority (-prefetchPriority): 0 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (17568) APW queue scan cycle time in milliseconds (-pwqdelay): 100 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (17569) APW minimum queue length before write (-pwqmin): 1 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (17570) APW buffer scan cycle time in seconds (-pwsdelay): 1 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (17571) APW maximum number of buffers to scan per cycle (-pwscan): 5 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (17572) APW maximum number of buffers to write per cycle (-pwwmax): 25 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (4247)  Before-Image File I/O (-r -R): Reliable 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (17563) Record free chain search depth factor (-recspacesearchdepth): 5 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (18478) Security cache size (-secsize): 512 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (6526)  Number of Semaphore Sets (-semsets): 3 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (12264) SSL Session Timeout (-sessiontimeout): 0 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (13924) Maximum Shared Memory Segment Size (-shmsegsize): 1024 Mb 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (4243)  Current Spin Lock Tries (-spin): 24000 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (17803) SSL Encryption for TCP/IP connections (-ssl): Not Enabled 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (18525) STS Debug Logging Level default (-stslogginglevel): 0 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (17556) Number of tables included in statistics collection (-tablerangesize): 50 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (18118) User Notification Time (-usernotifytime): 0 seconds 
+[2018/04/26@13:14:12.467+2300] P-16820      T-11748 I BROKER  0: (18407) Number of indexes per user included in statistics collection (-userindexrangesize): 50 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (18405) Number of tables per user included in statistics collection (-usertablerangesize): 50 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (14017) Area block consistency check (-AreaCheck): Not Enabled 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (4239)  Number of Database Buffers (-B): 3000 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (17562) Number of Alternate Database Buffers (-B2): 0 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (9422)  Maximum private buffers per user (-Bpmax): 64 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (14016) Database block consistency check (-DbCheck): Not Enabled 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (13869) Database Service Manager - Service(s) to start (-DBService): Not Enabled 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (10535) Enhanced Read-Only mode (-ERO): Not Enabled 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (4237)  Force Access (-F): Not Enabled 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (4249)  Before-Image Truncate Interval (-G): 0 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (4261)  Host Name (-H): NBHYDHTIRUNAG10 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (14018) Index block consistency check (-IndexCheck): Not Enabled 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (4241)  Current Size of Lock Table (-L): 8192 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (16688) Lock Governor (-LGovernor): 0% 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (4257)  Maximum Number of Clients Per Server (-Ma): 5 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (14016) Memory overwrite check (-MemCheck): Not Enabled 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (4245)  Delay of Before-Image Flush (-Mf): 3 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (4259)  Minimum Clients Per Server (-Mi): 1 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (12818) Message Buffer Size (-Mm): 1024 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (4258)  Maximum Number of Servers (-Mn): 5 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (12819) Servers per Protocol (-Mp): 0 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (5647)  Maximum Servers Per Broker (-Mpb): 0 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (4240)  Excess Shared Memory Size (-Mxs): 23 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (4263)  Network Type (-N): TCP 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (16954) Server network message wait time (-Nmsgwait): 2 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (10357) Pending client connection timeout (-PendConnTimeout): 0 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (4262)  Service Name (-S): 7821 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (17804) Broker server group support (-ServerType): BOTH 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (10028) SQL Server Max Open Cursors (-SQLCursors): 0 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (10026) SQL Server Stack Size (-SQLStack): 0 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (10027) SQL Server Statement Cache Size (-SQLStmtCache): 0 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (10029) Size [1K byte units] of SQL Server temp table buffer (-SQLTempStoreBuff): 0 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (10030) Size [1K byte units] of SQL Server temp table disk storage (-SQLTempStoreDisk): 0 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (10031) Size [1K byte units] of SQL Server temp table data page (-SQLTempStorePageSize): 0 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (17955) Authorized data truncation (-SQLTruncateTooLarge): OFF 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (18156) SQL Autonomous Schema Update (-SQLWidthUpdate): OFF 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (14019) Record block consistency check (-TableCheck): Not Enabled 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (17717) TXE Lock retry limit (-TXERetryLimit): 0 
+[2018/04/26@13:14:12.468+2300] P-16820      T-11748 I BROKER  0: (13896) TXE Commit lock skip limit (-TXESkipLimit): 10000 
+[2018/04/26@13:14:12.469+2300] P-16820      T-11748 I BROKER  0: (10836) Database connections are not allowed at this time. 
+[2018/04/26@13:14:12.469+2300] P-16820      T-11748 I BROKER  0: (10471) Database connections have been enabled. 
+[2018/04/26@13:14:28.551+2300] P-10852      T-5060  I SRV     1: (452)   Login by htirunag on CON:. 
+[2018/04/26@13:14:28.563+2300] P-10852      T-5060  I SRV     1: (5646)  Started on port 3001 using TCP IPV4 address 0.0.0.0, pid 10852. 
+[2018/04/26@13:14:29.510+2300] P-10852      T-5060  I SRV     1: (742)   Login usernum 24, userid htirunag client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@13:14:29.510+2300] P-10852      T-5060  I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@13:14:29.510+2300] P-10852      T-5060  I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:14:29.566+2300] P-10852      T-5060  I SRV     1: (7129)  Usr 24 set name to . 
+[2018/04/26@13:14:29.580+2300] P-10852      T-5060  I SRV     1: (739)   Logout usernum 24, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@13:14:30.783+2300] P-10852      T-5060  I SRV     1: (742)   Login usernum 24, userid htirunag client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@13:14:30.783+2300] P-10852      T-5060  I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@13:14:30.783+2300] P-10852      T-5060  I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:14:30.832+2300] P-10852      T-5060  I SRV     1: (7129)  Usr 24 set name to . 
+[2018/04/26@13:14:30.846+2300] P-10852      T-5060  I SRV     1: (739)   Logout usernum 24, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@13:15:38.073+2300] P-10852      T-5060  I SRV     1: (742)   Login usernum 24, userid htirunag client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@13:15:38.073+2300] P-10852      T-5060  I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@13:15:38.073+2300] P-10852      T-5060  I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:15:38.144+2300] P-10852      T-5060  I SRV     1: (7129)  Usr 24 set name to . 
+[2018/04/26@13:15:38.149+2300] P-10852      T-5060  I SRV     1: (739)   Logout usernum 24, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@13:15:38.297+2300] P-10852      T-5060  I SRV     1: (742)   Login usernum 24, userid htirunag client type PASN, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@13:15:38.298+2300] P-10852      T-5060  I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@13:15:38.298+2300] P-10852      T-5060  I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:15:38.355+2300] P-10852      T-5060  I SRV     1: (7129)  Usr 24 set name to . 
+[2018/04/26@13:15:38.493+2300] P-7972       T-12692 I SRV     2: (452)   Login by htirunag on CON:. 
+[2018/04/26@13:15:38.509+2300] P-7972       T-12692 I SRV     2: (5646)  Started on port 3002 using TCP IPV4 address 0.0.0.0, pid 7972. 
+[2018/04/26@13:15:39.449+2300] P-7972       T-12692 I SRV     2: (742)   Login usernum 23, userid htirunag client type PASN, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@13:15:39.449+2300] P-7972       T-12692 I SRV     2: (7129)  Usr 23 set name to htirunag. 
+[2018/04/26@13:15:39.449+2300] P-7972       T-12692 I SRV     2: (17961) User 23 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:15:39.492+2300] P-7972       T-12692 I SRV     2: (7129)  Usr 23 set name to . 
+[2018/04/26@13:20:42.955+2300] P-7972       T-12692 I SRV     2: (739)   Logout usernum 23, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@13:20:42.957+2300] P-10852      T-5060  I SRV     1: (739)   Logout usernum 24, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@13:21:21.409+2300] P-10852      T-5060  I SRV     1: (742)   Login usernum 24, userid htirunag client type ABL , on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 127.0.0.1. 
+[2018/04/26@13:21:21.409+2300] P-10852      T-5060  I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@13:21:21.409+2300] P-10852      T-5060  I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:21:21.468+2300] P-10852      T-5060  I SRV     1: (7129)  Usr 24 set name to dbadmin. 
+[2018/04/26@13:21:39.193+2300] P-10852      T-5060  I SRV     1: (739)   Logout usernum 24, userid dbadmin, on NBHYDHTIRUNAG10. 
+[2018/04/26@13:21:39.660+2300] P-15244      T-7868  I SQLSRV2 3: (-----) SQL Server 11.7.03 started, configuration: "sportsdb.virtualconfig" 
+[2018/04/26@13:21:39.674+2300] P-15244      T-7868  I SQLSRV2 3: (-----) "C:\Kinvey\Developer Studio 4.5.2\workspace\Sports2000\PASOEContent\WEB-INF\openedge\db\sportsdb" started on IPv4 port 3003 for address 0.0.0.0, pid 15244 (0x00003b8c).
+[2018/04/26@13:21:39.674+2300] P-15244      T-7868  I SQLSRV2 3: (-----) Thread stack size: 1024000 (bytes).
+[2018/04/26@13:21:39.674+2300] P-15244      T-7868  I SQLSRV2 3: (-----) DLC from ENVIRONMENT VARIABLE is: C:\Kinvey\OpenEdge 
+[2018/04/26@13:21:39.674+2300] P-15244      T-7868  I SQLSRV2 3: (-----) WRKDIR from ENVIRONMENT VARIABLE is: C:\Kinvey\WRK\ 
+[2018/04/26@13:21:39.674+2300] P-15244      T-7868  I SQLSRV2 3: (-----) JDKHOME from REGISTRY is: C:\Kinvey\OpenEdge\jdk 
+[2018/04/26@13:21:39.674+2300] P-15244      T-7868  I SQLSRV2 3: (-----) JREHOME from REGISTRY is: C:\Kinvey\OpenEdge\jre 
+[2018/04/26@13:21:39.674+2300] P-15244      T-7868  I SQLSRV2 3: (-----) CLASSPATH from ENVIRONMENT VARIABLE is: .; 
+[2018/04/26@13:21:39.674+2300] P-15244      T-7868  I SQLSRV2 3: (-----) PROSQL_LOCKWAIT_TIMEOUT value is: 5 seconds
+[2018/04/26@13:21:40.316+2300] P-15244      T-13308 I SRV     3: (8873)  Login usernum 24, remote SQL client. 
+[2018/04/26@13:21:40.316+2300] P-15244      T-13308 I SRV     3: (7129)  Usr 24 set name to dbadmin. 
+[2018/04/26@13:21:40.331+2300] P-15244      T-13308 I SQLSRV2 3: (-----) Login by user 24. Using TCP/IP IPV4 address 127.0.0.1
+[2018/04/26@13:21:41.114+2300] P-10852      T-5060  I SRV     1: (742)   Login usernum 23, userid htirunag client type ABL , on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 127.0.0.1. 
+[2018/04/26@13:21:41.114+2300] P-10852      T-5060  I SRV     1: (7129)  Usr 23 set name to htirunag. 
+[2018/04/26@13:21:41.114+2300] P-10852      T-5060  I SRV     1: (17961) User 23 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:21:41.153+2300] P-10852      T-5060  I SRV     1: (7129)  Usr 23 set name to dbadmin. 
+[2018/04/26@13:23:04.129+2300] P-7972       T-12692 I SRV     2: (742)   Login usernum 22, userid htirunag client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.74.40. 
+[2018/04/26@13:23:04.129+2300] P-7972       T-12692 I SRV     2: (7129)  Usr 22 set name to htirunag. 
+[2018/04/26@13:23:04.129+2300] P-7972       T-12692 I SRV     2: (17961) User 22 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:23:04.172+2300] P-7972       T-12692 I SRV     2: (7129)  Usr 22 set name to . 
+[2018/04/26@13:23:04.178+2300] P-7972       T-12692 I SRV     2: (739)   Logout usernum 22, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@13:23:04.294+2300] P-7972       T-12692 I SRV     2: (742)   Login usernum 22, userid htirunag client type PASN, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.74.40. 
+[2018/04/26@13:23:04.294+2300] P-7972       T-12692 I SRV     2: (7129)  Usr 22 set name to htirunag. 
+[2018/04/26@13:23:04.294+2300] P-7972       T-12692 I SRV     2: (17961) User 22 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:23:04.327+2300] P-7972       T-12692 I SRV     2: (7129)  Usr 22 set name to . 
+[2018/04/26@13:23:04.515+2300] P-3084       T-4300  I SRV     4: (452)   Login by htirunag on CON:. 
+[2018/04/26@13:23:04.536+2300] P-3084       T-4300  I SRV     4: (5646)  Started on port 3004 using TCP IPV4 address 0.0.0.0, pid 3084. 
+[2018/04/26@13:23:05.441+2300] P-3084       T-4300  I SRV     4: (742)   Login usernum 21, userid htirunag client type PASN, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.74.40. 
+[2018/04/26@13:23:05.441+2300] P-3084       T-4300  I SRV     4: (7129)  Usr 21 set name to htirunag. 
+[2018/04/26@13:23:05.441+2300] P-3084       T-4300  I SRV     4: (17961) User 21 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:23:05.497+2300] P-3084       T-4300  I SRV     4: (7129)  Usr 21 set name to . 
+[2018/04/26@13:34:50.880+2300] P-3084       T-4300  I SRV     4: (739)   Logout usernum 21, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@13:34:50.882+2300] P-7972       T-12692 I SRV     2: (739)   Logout usernum 22, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@13:35:35.093+2300] P-7708       T-12192 I SHUT    5: (452)   Login by htirunag on CON:. 
+[2018/04/26@13:35:36.364+2300] P-7708       T-12192 I SHUT    5: (542)   Server shutdown started by htirunag on CON:. 
+[2018/04/26@13:35:36.403+2300] P-3084       T-4300  I SRV     4: (2520)  Stopped. 
+[2018/04/26@13:35:36.430+2300] P-16820      T-11748 I BROKER  0: (15193) The normal shutdown of the database will continue for 10 Min 0 Sec if required. 
+[2018/04/26@13:35:36.430+2300] P-16820      T-11748 I BROKER  0: (2248)  Begin normal shutdown 
+[2018/04/26@13:35:36.539+2300] P-10852      T-5060  I SRV     1: (739)   Logout usernum 23, userid dbadmin, on NBHYDHTIRUNAG10. 
+[2018/04/26@13:35:36.542+2300] P-10852      T-5060  I SRV     1: (2520)  Stopped. 
+[2018/04/26@13:35:37.431+2300] P-16820      T-11748 I BROKER  0: (2263)  Resending shutdown request to 1 user(s). 
+[2018/04/26@13:35:40.982+2300] P-15244      T-13308 I SQLREMC 24: (-----) Disconnected due to shutdown of primary database: C:\Kinvey\Developer Studio 4.5.2\workspace\Sports2000\PASOEContent\WEB-INF\openedge\db\sportsdb
+[2018/04/26@13:35:40.984+2300] P-15244      T-13308 I SRV     3: (453)   Logout by dbadmin on  . 
+[2018/04/26@13:35:47.480+2300] P-16820      T-11748 I BROKER  0: (15109) At Database close the number of live transactions is 0. 
+[2018/04/26@13:35:47.480+2300] P-16820      T-11748 I BROKER  0: (15743) Before Image Log Completion at Block 3 Offset 7009. 
+[2018/04/26@13:35:47.481+2300] P-16820      T-11748 I BROKER  0: (453)   Logout by htirunag on CON:. 
+[2018/04/26@13:35:47.482+2300] P-16820      T-11748 I BROKER   : (16869) Removed shared memory with segment_id: 1908969242624 
+[2018/04/26@13:35:47.482+2300] P-16820      T-11748 I BROKER   : (334)   Multi-user session end. 
+[2018/04/26@13:35:48.372+2300] P-7708       T-12192 I SHUT    5: (453)   Logout by htirunag on CON:. 
+
+                Thu Apr 26 13:52:03 2018
+[2018/04/26@13:52:03.119+2300] P-15432      T-16564 I BROKER  0: (333)   Multi-user session begin. 
+[2018/04/26@13:52:03.121+2300] P-15432      T-16564 I BROKER  0: (15321) Before Image Log Initialization at block 3  offset 7009. 
+[2018/04/26@13:52:03.124+2300] P-15432      T-16564 I BROKER  0: (452)   Login by htirunag on CON:. 
+[2018/04/26@13:52:03.131+2300] P-15432      T-16564 I BROKER  0: (5644)  Started for 7821 using TCP IPV4 address 0.0.0.0, pid 15432. 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (-----) This installation is licensed to: Progress by C:\Kinvey\OpenEdge\progress.cfg.
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (-----) Product: Progress Dev Studio OE installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (-----) Product: OE Personal RDBMS installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (-----) Product: Query/RESULTS installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (-----) Product: OE Studio installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (-----) Product: OE Adv. Ent. RDBMS installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (-----) Product: OE Application Svr Ent installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (-----) Product: OE Development Server installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (-----) Product: KendoUI Builder-KUIB installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (-----) Product: KendoUI Builder installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (-----) Product: OE SQL Client Access installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (-----) Product: Progress Dev AS for OE installed with serial number: 123456789 expiration: 00/00/2010
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (4234)  Progress OpenEdge Release 11.7 build 1585 SP03 on WINNT . 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (4281)  Server started by htirunag on CON:. 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (6574)  Started using pid: 15432. 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (15219) Encryption enabled: 0 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (15824) Multi-tenancy enabled: 0 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (15824) Table Partitioning enabled: 0 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (15824) Authentication Gateway enabled: 0 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (-----) LRU mechanism enabled.
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (4282)  Parameter File: Not Enabled. 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (9336)  Created shared memory with segment_id: 1 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (4250)  Before-Image Cluster Size: 524288. 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (4251)  Before-Image Block Size: 8192. 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (13873) After-image Management Archival Directory List (-aiarcdir): Not Enabled 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (13874) Create After-image Management Archival Directory(s) (-aiarcdircreate): Not Enabled 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (13872) After-image Management Archival Interval (-aiarcinterval): -1 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (4256)  Number of After-Image Buffers (-aibufs): 20 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (4254)  After-Image Stall (-aistall): Not Enabled 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (17555) Starting index number for statistics range (-baseindex): 1 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (17554) Starting table number for statistics range (-basetable): 1 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (18406) Starting index number per user for statistics range (-baseuserindex): 1 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (18404) Starting table number per user for statistics range (-baseusertable): 1 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (4252)  Number of Before-Image Buffers (-bibufs): 20 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (6552)  BI File Threshold Stall (-bistall): Disabled. 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (9238)  BI File Threshold size (-bithold): 0.0   Bytes 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (6573)  Database Blocksize (-blocksize): 4096 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (12812) BIW writer delay (-bwdelay): 0 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (12813) Allowed index cursors (-c): 84 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (18495) CDC cache size (-cdcsize): 200k bytes 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (12265) SSL Certificate Store Path (-certstorepath): Not Enabled 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (4264)  Character Set (-cpinternal): ISO8859-1 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (4235)  Physical Database Name (-db): C:\Kinvey\Developer Studio 4.5.2\workspace\Sports2000\PASOEContent\WEB-INF\openedge\db\sportsdb 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (18558) Diagnostic directory (-diagDir): Not Enabled 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (18576) Diagnostic events value (-diagEvent): LockTable:0,BiThold:0,SysErr:0 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (18560) Diagnostic event level (-diagEvtLevel): 0 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (18561) Diagnostic field separator (-diagFS): ' ' 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (18579) Diagnostic data format (-diagFormat): csv 
+[2018/04/26@13:52:03.132+2300] P-15432      T-16564 I BROKER  0: (18562) Diagnostic pause length (-diagPause): 0 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (18563) Diagnostic prefix value (-diagPrefix): diagEvent_ 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (4238)  Direct I/O (-directio): Not Enabled 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (4236)  Database Type (-dt): PROGRESS 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (15218) Encryption cache size (-ecsize): 1000 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (12814) Group delay (-groupdelay): 10 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (4242)  Hash Table Entries (-hash): 887 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (-----) Buffer pool hash table latch percentage (-hashLatchFactor): 10 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (4244)  Crash Recovery (-i): Enabled 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (17557) Number of indexes included in statistics collection (-indexrangesize): 50 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (14268) TCP/IP Version (-ipver): IPV4 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (12263) SSL Key Alias Name (-keyalias): Not Enabled 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (-----) Database log file archive directory (-lgArchiveDir): Not Enabled 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (-----) Archive database log file before truncation (-lgArchiveEnable): Not Enabled 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (-----) Frequency of database log file truncation (-lgTruncateFrequency): -1 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (-----) The maximum size the database log file can grow before truncation (-lgTruncateSize): 0MB 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (-----) Time of day for the database log file truncation (-lgTruncateTime): 00:00 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (-----) Limit .lg file payload (-limitLgPayload): Not Enabled
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (12815) Lock table hash table size (-lkhash): 1237 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (17805) Original Lock Release Algorithm (-lkrela): Not Enabled 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (17560) Number of LRU force skips (-lruskips): 0 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (17561) Number of LRU2 force skips (-lru2skips): 0 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (13953) Maximum Area Number (-maxArea): 32000 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (12540) Size of JTA transaction table (-maxxids):  100 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (5649)  Maximum Port for Auto Servers (-maxport): 5000 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (5648)  Minimum Port for Auto Servers (-minport): 3000 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (17564) Multi-tenancy partition cache size (-mtpmsize): 1024 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (12821) Use muxlatches (-mux): 1 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (4260)  Maximum Number of Users (-n): 21 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (17566) Minimum time to nap at first -spin exhaustion (-nap): 10 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (17565) Maximum time to nap at -spin exhaustion (-napmax): 250 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (18522) SSL No Host Verify (-nohostverify): Not Enabled 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (17807) Disable LRU mechanism (-nolru): Not Enabled 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (12273) SSL No Session Cache (-nosessioncache): Not Enabled 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (18521) SSL No Session Reuse (-nosessionreuse): Not Enabled 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (16689) Login Governor (-nGovernor): 0 of 21 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (18398) Number of checkpoint statistics to record (-numCheckpointStats): 32 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (-----) Omit .lg file messages (-omitLgMsgs): 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (8527)  Storage object cache size (-omsize): 1024 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (13870) Database Service Manager - IPC Queue Size (-pica): 64.0  KBytes 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (17802) Shared memory segments locked (-pinshm): Not Enabled 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (16953) Use pollset mechanism for client/server (-pollset): Not Enabled 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (16955) Delay first prefetch message (-prefetchDelay): Not Enabled 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (16956) Prefetch message fill percentage (-prefetchFactor): 0 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (16957) Minimum records in prefetch msg (-prefetchNumRecs): 16 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (16958) Suspension queue poll priority (-prefetchPriority): 0 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (17568) APW queue scan cycle time in milliseconds (-pwqdelay): 100 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (17569) APW minimum queue length before write (-pwqmin): 1 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (17570) APW buffer scan cycle time in seconds (-pwsdelay): 1 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (17571) APW maximum number of buffers to scan per cycle (-pwscan): 5 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (17572) APW maximum number of buffers to write per cycle (-pwwmax): 25 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (4247)  Before-Image File I/O (-r -R): Reliable 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (17563) Record free chain search depth factor (-recspacesearchdepth): 5 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (18478) Security cache size (-secsize): 512 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (6526)  Number of Semaphore Sets (-semsets): 3 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (12264) SSL Session Timeout (-sessiontimeout): 0 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (13924) Maximum Shared Memory Segment Size (-shmsegsize): 1024 Mb 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (4243)  Current Spin Lock Tries (-spin): 24000 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (17803) SSL Encryption for TCP/IP connections (-ssl): Not Enabled 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (18525) STS Debug Logging Level default (-stslogginglevel): 0 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (17556) Number of tables included in statistics collection (-tablerangesize): 50 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (18118) User Notification Time (-usernotifytime): 0 seconds 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (18407) Number of indexes per user included in statistics collection (-userindexrangesize): 50 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (18405) Number of tables per user included in statistics collection (-usertablerangesize): 50 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (14017) Area block consistency check (-AreaCheck): Not Enabled 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (4239)  Number of Database Buffers (-B): 3000 
+[2018/04/26@13:52:03.133+2300] P-15432      T-16564 I BROKER  0: (17562) Number of Alternate Database Buffers (-B2): 0 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (9422)  Maximum private buffers per user (-Bpmax): 64 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (14016) Database block consistency check (-DbCheck): Not Enabled 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (13869) Database Service Manager - Service(s) to start (-DBService): Not Enabled 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (10535) Enhanced Read-Only mode (-ERO): Not Enabled 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (4237)  Force Access (-F): Not Enabled 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (4249)  Before-Image Truncate Interval (-G): 0 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (4261)  Host Name (-H): NBHYDHTIRUNAG10 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (14018) Index block consistency check (-IndexCheck): Not Enabled 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (4241)  Current Size of Lock Table (-L): 8192 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (16688) Lock Governor (-LGovernor): 0% 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (4257)  Maximum Number of Clients Per Server (-Ma): 5 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (14016) Memory overwrite check (-MemCheck): Not Enabled 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (4245)  Delay of Before-Image Flush (-Mf): 3 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (4259)  Minimum Clients Per Server (-Mi): 1 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (12818) Message Buffer Size (-Mm): 1024 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (4258)  Maximum Number of Servers (-Mn): 5 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (12819) Servers per Protocol (-Mp): 0 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (5647)  Maximum Servers Per Broker (-Mpb): 0 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (4240)  Excess Shared Memory Size (-Mxs): 23 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (4263)  Network Type (-N): TCP 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (16954) Server network message wait time (-Nmsgwait): 2 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (10357) Pending client connection timeout (-PendConnTimeout): 0 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (4262)  Service Name (-S): 7821 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (17804) Broker server group support (-ServerType): BOTH 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (10028) SQL Server Max Open Cursors (-SQLCursors): 0 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (10026) SQL Server Stack Size (-SQLStack): 0 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (10027) SQL Server Statement Cache Size (-SQLStmtCache): 0 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (10029) Size [1K byte units] of SQL Server temp table buffer (-SQLTempStoreBuff): 0 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (10030) Size [1K byte units] of SQL Server temp table disk storage (-SQLTempStoreDisk): 0 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (10031) Size [1K byte units] of SQL Server temp table data page (-SQLTempStorePageSize): 0 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (17955) Authorized data truncation (-SQLTruncateTooLarge): OFF 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (18156) SQL Autonomous Schema Update (-SQLWidthUpdate): OFF 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (14019) Record block consistency check (-TableCheck): Not Enabled 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (17717) TXE Lock retry limit (-TXERetryLimit): 0 
+[2018/04/26@13:52:03.134+2300] P-15432      T-16564 I BROKER  0: (13896) TXE Commit lock skip limit (-TXESkipLimit): 10000 
+[2018/04/26@13:52:03.135+2300] P-15432      T-16564 I BROKER  0: (10836) Database connections are not allowed at this time. 
+[2018/04/26@13:52:03.135+2300] P-15432      T-16564 I BROKER  0: (10471) Database connections have been enabled. 
+[2018/04/26@13:52:08.691+2300] P-18532      T-2784  I SRV     1: (452)   Login by htirunag on CON:. 
+[2018/04/26@13:52:08.705+2300] P-18532      T-2784  I SRV     1: (5646)  Started on port 3001 using TCP IPV4 address 0.0.0.0, pid 18532. 
+[2018/04/26@13:52:09.633+2300] P-18532      T-2784  I SRV     1: (742)   Login usernum 24, userid htirunag client type ABL , on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 127.0.0.1. 
+[2018/04/26@13:52:09.633+2300] P-18532      T-2784  I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@13:52:09.633+2300] P-18532      T-2784  I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:52:09.669+2300] P-18532      T-2784  I SRV     1: (7129)  Usr 24 set name to dbadmin. 
+[2018/04/26@13:52:09.675+2300] P-18532      T-2784  I SRV     1: (739)   Logout usernum 24, userid dbadmin, on NBHYDHTIRUNAG10. 
+[2018/04/26@13:52:17.010+2300] P-18532      T-2784  I SRV     1: (742)   Login usernum 24, userid htirunag client type ABL , on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 127.0.0.1. 
+[2018/04/26@13:52:17.010+2300] P-18532      T-2784  I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@13:52:17.010+2300] P-18532      T-2784  I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@13:52:17.052+2300] P-18532      T-2784  I SRV     1: (7129)  Usr 24 set name to dbadmin. 
+[2018/04/26@14:32:55.843+2300] P-17108      T-2912  I SRV     2: (452)   Login by htirunag on CON:. 
+[2018/04/26@14:32:55.853+2300] P-17108      T-2912  I SRV     2: (5646)  Started on port 3002 using TCP IPV4 address 0.0.0.0, pid 17108. 
+[2018/04/26@14:32:56.795+2300] P-17108      T-2912  I SRV     2: (742)   Login usernum 23, userid htirunag client type ABL , on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 127.0.0.1. 
+[2018/04/26@14:32:56.795+2300] P-17108      T-2912  I SRV     2: (7129)  Usr 23 set name to htirunag. 
+[2018/04/26@14:32:56.795+2300] P-17108      T-2912  I SRV     2: (17961) User 23 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@14:32:56.827+2300] P-17108      T-2912  I SRV     2: (7129)  Usr 23 set name to dbadmin. 
+[2018/04/26@14:32:56.831+2300] P-17108      T-2912  I SRV     2: (739)   Logout usernum 23, userid dbadmin, on NBHYDHTIRUNAG10. 
+[2018/04/26@14:33:04.276+2300] P-18532      T-2784  I SRV     1: (739)   Logout usernum 24, userid dbadmin, on NBHYDHTIRUNAG10. 
+[2018/04/26@14:33:05.567+2300] P-18532      T-2784  I SRV     1: (742)   Login usernum 24, userid htirunag client type ABL , on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 127.0.0.1. 
+[2018/04/26@14:33:05.567+2300] P-18532      T-2784  I SRV     1: (7129)  Usr 24 set name to htirunag. 
+[2018/04/26@14:33:05.567+2300] P-18532      T-2784  I SRV     1: (17961) User 24 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@14:33:05.610+2300] P-18532      T-2784  I SRV     1: (7129)  Usr 24 set name to dbadmin. 
+[2018/04/26@14:35:28.768+2300] P-17108      T-2912  I SRV     2: (742)   Login usernum 23, userid htirunag client type PASA, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@14:35:28.768+2300] P-17108      T-2912  I SRV     2: (7129)  Usr 23 set name to htirunag. 
+[2018/04/26@14:35:28.769+2300] P-17108      T-2912  I SRV     2: (17961) User 23 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@14:35:28.813+2300] P-17108      T-2912  I SRV     2: (7129)  Usr 23 set name to . 
+[2018/04/26@14:35:28.817+2300] P-17108      T-2912  I SRV     2: (739)   Logout usernum 23, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@14:35:28.932+2300] P-17108      T-2912  I SRV     2: (742)   Login usernum 23, userid htirunag client type PASN, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@14:35:28.932+2300] P-17108      T-2912  I SRV     2: (7129)  Usr 23 set name to htirunag. 
+[2018/04/26@14:35:28.932+2300] P-17108      T-2912  I SRV     2: (17961) User 23 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@14:35:28.969+2300] P-17108      T-2912  I SRV     2: (7129)  Usr 23 set name to . 
+[2018/04/26@14:35:29.118+2300] P-13132      T-2604  I SRV     3: (452)   Login by htirunag on CON:. 
+[2018/04/26@14:35:29.134+2300] P-13132      T-2604  I SRV     3: (5646)  Started on port 3003 using TCP IPV4 address 0.0.0.0, pid 13132. 
+[2018/04/26@14:35:30.067+2300] P-13132      T-2604  I SRV     3: (742)   Login usernum 22, userid htirunag client type PASN, on NBHYDHTIRUNAG10 using TCP/IP IPV4 address 172.21.63.82. 
+[2018/04/26@14:35:30.068+2300] P-13132      T-2604  I SRV     3: (7129)  Usr 22 set name to htirunag. 
+[2018/04/26@14:35:30.068+2300] P-13132      T-2604  I SRV     3: (17961) User 22 set tty to NBHYDHTIRUNAG10. 
+[2018/04/26@14:35:30.126+2300] P-13132      T-2604  I SRV     3: (7129)  Usr 22 set name to . 
+[2018/04/26@14:56:07.304+2300] P-13132      T-2604  I SRV     3: (739)   Logout usernum 22, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@14:56:07.306+2300] P-17108      T-2912  I SRV     2: (739)   Logout usernum 23, userid , on NBHYDHTIRUNAG10. 
+[2018/04/26@14:56:18.837+2300] P-18532      T-2784  I SRV     1: (739)   Logout usernum 24, userid dbadmin, on NBHYDHTIRUNAG10. 

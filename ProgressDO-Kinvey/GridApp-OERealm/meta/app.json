@@ -1,0 +1,17 @@
+{
+    "authorization": {
+        "roles": []
+    },
+    "children": [],
+    "defaultLangaugeCulture": "en-US",
+    "defaultLanguageLabel": "English",
+    "description": "",
+    "layout": {},
+    "logo": "logo_default.png",
+    "name": "GridApp",
+    "schemaVersion": "1.4.14",
+    "targetFramework": "AngularJS",
+    "theme": "metro",
+    "type": "app",
+    "uniqueID": "d772197c-f53a-4fe9-a097-0722f17fd843"
+}
