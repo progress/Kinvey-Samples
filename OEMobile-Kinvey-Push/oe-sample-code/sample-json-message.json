@@ -1,0 +1,37 @@
+{
+    "Android": {
+        // GCM content
+        "notification": {
+            "title": "Notification title",
+            "body": "Notification body",
+            "icon": "n-icon",
+            "sound": "default",
+            "tag": "DailyNotification",
+            "color": "Blue"
+        },
+        // Application content
+        "data": {
+            "android-app-key1": "android-value1",
+            "android-app-key2": "android-value2"
+        }
+    },
+    "IOS": {
+        // APNS content
+        "aps": {
+            "alert": {
+                "title": "Notification title",
+                "body": "Notification body"
+            },
+            "badge": "1",
+            "sound": "default",
+            "content-available": "1",
+            "thread-id": "thread-group-of-an-app",
+            "category": ""
+        },
+        // Application content
+        "data": {
+            "ios-app-key1": "ios-value1",
+            "ios-app-key2": "ios-value2"
+        }
+    }
+}
