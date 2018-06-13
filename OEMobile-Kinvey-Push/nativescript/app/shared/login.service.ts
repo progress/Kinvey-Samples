@@ -24,6 +24,7 @@ export class LoginService {
   }
 
   private notificationData;
+  private notification;
 
   register() : Promise<any> {
       const promise = Push.register({
@@ -46,10 +47,16 @@ export class LoginService {
             } else {
                 this.notificationData = data;
             }
-            const notificationMessage = JSON.parse(this.notificationData.msg);
+            const notificationMessage = this.notificationData.hasOwnProperty("msg") ? this.notificationData.msg : this.notificationData;
+            if ( typeof notificationMessage === "string" )
+                this.notification = JSON.parse(notificationMessage);
+            else    
+                this.notification = notificationMessage;
+            const title = this.notification.hasOwnProperty("title") ? this.notification.title : "undefined";
+            const body = this.notification.hasOwnProperty("body") ? this.notification.body : "undefined";
             dialogs.alert({
-                title: notificationMessage.title,
-                message: notificationMessage.body,
+                title: title,
+                message: body,
                 okButtonText: "Close"
             }).then(() => {
                 console.log("Dialog closed!");

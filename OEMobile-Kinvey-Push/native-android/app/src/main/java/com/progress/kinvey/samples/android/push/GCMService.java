@@ -58,9 +58,12 @@ public class GCMService extends KinveyGCMService {
         } else {
             try {
                 msgJsonObj = new JSONObject(message);
-                msgContent = msgJsonObj.get("body").toString();
-                msgFrom = msgJsonObj.get("from").toString();
-                msgSubject = msgJsonObj.get("title").toString();
+                if ( msgJsonObj.has("body") )
+                    msgContent = msgJsonObj.get("body").toString();
+                if ( msgJsonObj.has("from") )
+                    msgFrom = msgJsonObj.get("from").toString();
+                if ( msgJsonObj.has("title") )
+                    msgSubject = msgJsonObj.get("title").toString();
                 contentTitle = msgFrom + ": " + msgSubject;
             } catch (JSONException je) {
                 contentTitle = "Push Notification";
