@@ -5,3 +5,4 @@ Mobile Push Notification API.pdf file contains documentation for this API. It de
 •	OpenEdge.Net.pl — the procedure library that contains the OpenEdge Mobile Push Notification API.
 •	COMODORSACertificationAuthority.crt — a root CA certificate that you need to install in your OpenEdge certificate store to establish an SSL connection with Kinvey.
 •	push.notification.js — a JavaScript file that contains sample code that can be used in a Kinvey custom endpoint.
+•	KinveyPushNotificationSample.zip — an OpenEdge project that contains sample ABL code for sending push notification messages to Kinvey.
