@@ -1,11 +1,7 @@
-1) Install COMODO root certificate as trusted Root Authority.
-•	This is because the RA of the <your instance>.kinvey.com is not by default trusted RA in openedge certificate store
-•	Unzip the attached zip and put it any where on disk (say c:\openedge\wrk)
-•	Open proenv and type certutil -import c:\openedge\wrk\COMODORSACertificationAuthority.crt
-•	You should see it imported successfully
+The OpenEdge Mobile Push Notification API enables you to send push notification messages from an ABL application to Kinvey, which in turn can deliver the push notifications to notification servers used by Android and iOS devices.
 
+Mobile Push Notification API.pdf file contains documentation for this API. It describes the use case and lists the steps to send push notification messages from an ABL application to Kinvey.
 
-2) Update push-notification.p with details of Kinvey's instance, appId and user 
-3) call the procedure run.p
-
-Note: You need to make sure the propath is set correctly. (e.g. c:\progress\OpenEdge\gui\netlib\OpenEdge.Net.pl should be in propath.) 
+â€¢	OpenEdge.Net.pl â€” the procedure library that contains the OpenEdge Mobile Push Notification API.
+â€¢	COMODORSACertificationAuthority.crt â€” a root CA certificate that you need to install in your OpenEdge certificate store to establish an SSL connection with Kinvey.
+â€¢	push.notification.js â€” a JavaScript file that contains sample code that can be used in a Kinvey custom endpoint.
